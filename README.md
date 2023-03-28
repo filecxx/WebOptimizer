@@ -1,0 +1,2 @@
+# WebOptimizer
+WebOptimizer browser extension.
