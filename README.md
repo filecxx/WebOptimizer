@@ -5,6 +5,18 @@ WebOptimizer browser extension.
 
 Unlock restrictions, protect your privacy, remove annoying elements, auto clicks, and replace disliked words.
 
+# Languages supported
+| Language            |@|
+|:--------------------|:-------------|
+|English | [@filecxx](https://github.com/filecxx) 
+|简体中文 | [@filecxx](https://github.com/filecxx) 
+|日本語 | [@filecxx](https://github.com/filecxx) 
+|한국인 | [@filecxx](https://github.com/filecxx) 
+|Deutsch | [@filecxx](https://github.com/filecxx) 
+|español | [@filecxx](https://github.com/filecxx) 
+|Français | [@filecxx](https://github.com/filecxx) 
+|Русский | [@filecxx](https://github.com/filecxx) 
+
 # Features
 
 #### Auto click elements from web pages
