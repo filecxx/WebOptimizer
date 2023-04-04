@@ -1,5 +1,5 @@
 {
-    "manifest_version":3,
+    "manifest_version":2,
     "name":"__MSG_appname__",
     "version":"1.0",
     "description":"Unlock restrictions, protect your privacy, remove annoying elements, auto clicks, and replace disliked words.",
@@ -9,9 +9,10 @@
         "128": "icons/icon.png"
     },
     "background":{
-        "service_worker": "background/background.js"
+        "scripts":["config.js","libs/functions.js","background/background.js"],
+        "persistent": true
     },
-    "action":{
+    "browser_action":{
         "default_icon":"icons/icon.png",
         "default_popup":"popup.html"
     },
@@ -31,16 +32,9 @@
         "matches":["http://*/*","https://*/*","ftp://*/*","file:///*"],
         "run_at":"document_start"
     }],
-    "web_accessible_resources": [
-        {
-            "resources": ["config.js","icons/*","content/*","icons/*","images/*","libs/*","libs/*/*"],
-            "matches": ["<all_urls>"]
-        }
-    ],
+    "web_accessible_resources": ["config.js","icons/*","content/*","icons/*","images/*","libs/*","libs/*/*"],
     "permissions":[
-        "tabs","webNavigation","contextMenus","storage","privacy","contentSettings","scripting"
-    ],
-    "host_permissions": [
+        "tabs","webNavigation","contextMenus","storage","privacy","contentSettings",
         "<all_urls>","*://*/*","http://*/*","https://*/*"
     ]
 } 
