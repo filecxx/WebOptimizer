@@ -17,6 +17,8 @@ Unlock restrictions, protect your privacy, remove annoying elements, auto clicks
 |Français | [@filecxx](https://github.com/filecxx) 
 |Русский | [@filecxx](https://github.com/filecxx) 
 
+Language files: https://github.com/filecxx/WebOptimizer/tree/master/chrome/_locales
+
 # Features
 
 #### Auto click elements from web pages
@@ -53,3 +55,13 @@ Unlock restrictions, protect your privacy, remove annoying elements, auto clicks
 ![WebOptimizer](screenshots/3.png)
 ![WebOptimizer](screenshots/auto_click.png)
 ![WebOptimizer](screenshots/replace_words_google.png)
+
+
+# Feature request && Contribution
+There's no need to create a new browser extension based on this project.
+
+If you have a feature request, simply post an issue.
+
+Additionally, you can push your code into this repository, and it will be merged into the main branch.
+
+
