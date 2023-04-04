@@ -1,3 +1,5 @@
+![image](chrome/icons/icon.png)
+
 # WebOptimizer
 WebOptimizer browser extension.
 
