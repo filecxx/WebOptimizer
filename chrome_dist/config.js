@@ -1,2 +1,0 @@
-
-var lang=chrome.i18n.getMessage,config={software_name:lang("appname")||"WebOptimizer",settings:{unlock_text_select_restriction:!0,unlock_copy_restriction:!0,unlock_contextmenu:!1,remove_anti_ad_blocker_layer:!0,block_notification:!0,prevent_webrtc_ip_leaks:!0,prevent_visibility_detection:!0,disable_geolocation:!1,disable_third_party_cookies:!0,enable_do_not_track:!0,block_popup_windows:!0,disable_leave_site_alert:!1},auto_clicks:{},replace_words:{}},get_extension_url=function(e){return(chrome.extension&&chrome.extension.getURL?chrome.extension:chrome.runtime).getURL(e)};
