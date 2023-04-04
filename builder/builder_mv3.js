@@ -50,7 +50,7 @@ Std.main(function()
         });
     }
     
-    compress_directory("parser");
+
     compress_directory("libs");
     compress_directory("content");
     compress_directory("background");
