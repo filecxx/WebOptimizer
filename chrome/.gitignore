@@ -1,0 +1,12 @@
+/build/*
+/stage/*
+*.o
+*.obj
+*.gch
+*.pch
+**/.idea
+**/.vs
+**/*.cbp
+**/cmake-build-release
+**/cmake-build-debug
+**/CMakeCache.txt
