@@ -1,0 +1,2 @@
+
+.StdUI_ToolBar{ font-size:13px;display:inline-block;*display:inline;*zoom:1;vertical-align:middle;cursor:default;outline:none;overflow:hidden;white-space:nowrap;box-sizing:content-box;height:30px}.StdUI_ToolBar.disabled{ cursor:not-allowed}.StdUI_ToolBar > ._buttons{ overflow:hidden}.StdUI_ToolBar > ._buttons > .StdUI{ float:left;margin-right:3px}.StdUI_ToolBar > ._buttons > .StdUI_Sep{ outline:none;margin:0 4px 0 4px;width:0;border-left:1px solid #d7d9da;border-right:1px solid #eff0f1;background:transparent}

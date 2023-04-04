@@ -1,0 +1,40 @@
+{
+    "manifest_version":2,
+    "name":"__MSG_appname__",
+    "version":"1.0",
+    "description":"Unlock restrictions, protect your privacy, remove annoying elements, auto clicks, and replace disliked words.",
+    "homepage_url": "https://github.com/filecxx/WebOptimizer",
+    "default_locale":"en",
+    "icons": {
+        "128": "icons/icon.png"
+    },
+    "background":{
+        "scripts":["config.js","libs/functions.js","background/background.js"],
+        "persistent": true
+    },
+    "browser_action":{
+        "default_icon":"icons/icon.png",
+        "default_popup":"popup.html"
+    },
+    "content_scripts":[
+    {
+        "all_frames":true,
+        "js":[
+            "config.js",
+            "libs/functions.js",
+            "content/content_injector.js",
+            "content/content_element_selector.js",
+            "content/content_auto_click.js",
+            "content/content_replace_words.js",
+            "content/content.js"
+        ],
+        "match_about_blank": true,
+        "matches":["http://*/*","https://*/*","ftp://*/*","file:///*"],
+        "run_at":"document_start"
+    }],
+    "web_accessible_resources": ["config.js","icons/*","content/*","icons/*","images/*","libs/*","libs/*/*"],
+    "permissions":[
+        "tabs","webNavigation","contextMenus","storage","privacy","contentSettings",
+        "<all_urls>","*://*/*","http://*/*","https://*/*"
+    ]
+} 

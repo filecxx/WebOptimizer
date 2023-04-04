@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f48d533e-b9e0-46b3-9881-fd3129ea4869" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NeIjPjcEVWZuLJkbX68HqpfbYW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/devel01/Projects/web_extensions/WebOptimizer",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.General"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f48d533e-b9e0-46b3-9881-fd3129ea4869" name="Changes" comment="" />
+      <created>1680018256106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680018256106</updated>
+      <workItem from="1680018257267" duration="6783000" />
+      <workItem from="1680025731435" duration="568000" />
+      <workItem from="1680081699003" duration="9925000" />
+      <workItem from="1680109486979" duration="26000" />
+      <workItem from="1680109516887" duration="6000" />
+      <workItem from="1680121090339" duration="1096000" />
+      <workItem from="1680192840572" duration="23024000" />
+      <workItem from="1680220103564" duration="13273000" />
+      <workItem from="1680279028091" duration="32419000" />
+      <workItem from="1680377251233" duration="12342000" />
+      <workItem from="1680393530235" duration="6759000" />
+      <workItem from="1680453712668" duration="1030000" />
+      <workItem from="1680454752505" duration="13000" />
+      <workItem from="1680454768892" duration="18779000" />
+      <workItem from="1680474459510" duration="710000" />
+      <workItem from="1680475571642" duration="6747000" />
+      <workItem from="1680617738011" duration="18984000" />
+      <workItem from="1680642576524" duration="166000" />
+      <workItem from="1680642774210" duration="295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
