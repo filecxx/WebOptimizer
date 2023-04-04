@@ -1,2 +1,41 @@
 # WebOptimizer
 WebOptimizer browser extension.
+
+Unlock restrictions, protect your privacy, remove annoying elements, auto clicks, and replace disliked words.
+
+# Features
+
+#### Auto click elements from web pages
+(Such as expander, close .....)
+
+#### Replace disliked words from web pages
+
+#### Unlock text select restriction
+#### Unlock copy restriction
+#### Unlock context menu
+#### Remove anti ad blocker layer
+![Anti_Ad_Blocker](chrome/images/anti_adblock.png)
+#### Block notification
+![Block_Notifycation](chrome/images/notification.png)
+#### Prevent WebRTC IP leaks
+(WebRTC will leak your real IP address even if you are using a proxy or VPN.)
+
+#### Prevent visibility detection
+(Websites can track your visibility. For instance, they may make you watch Ads for 60 seconds before allowing you to view the video. If you minimize your browser or switch to a different tab, the website can detect it and pause the countdown. (This feature probability won't work.))
+
+#### Enable do not track
+(Tell websites not to track you. (it still can))
+
+#### Disable third party cookies
+(A third-party cookie is placed on a website by someone other than the owner (a third party) and collects user data for the third party. As with standard cookies, third-party cookies are placed so that a site can remember something about the user at a later time. Third-party cookies, however, are often set by advertising networks that a site may subscribe to in the hopes of driving up sales or page hits.)
+
+#### Disable leave site alert
+![Block Notifycation](chrome/images/leave_this_site.png)
+
+
+# Screenshots
+![WebOptimizer](screenshots/1.png)
+![WebOptimizer](screenshots/2.png)
+![WebOptimizer](screenshots/3.png)
+![WebOptimizer](screenshots/auto_click.png)
+![WebOptimizer](screenshots/replace_words_google.png)

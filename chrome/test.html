@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script>
+        window.onbeforeunload = function(e){
+            e.returnValue = "aaa";
+            return "aaa";
+        }
+        document.addEventListener("beforeunload",function(e)
+        {
+            e.returnValue = "aa33a";
+            return "aa33a";
+        });
+    </script>
+</head>
+<body>
+
+</body>
+</html>
