@@ -1,7 +1,7 @@
 {
     "manifest_version":3,
     "name":"__MSG_appname__",
-    "version":"1.1",
+    "version":"1.1.1",
     "description":"__MSG_description__",
     "homepage_url": "https://github.com/filecxx/WebOptimizer",
     "default_locale":"en",
@@ -38,7 +38,7 @@
         }
     ],
     "permissions":[
-        "tabs","contextMenus","storage","privacy","contentSettings","scripting"
+        "tabs","contextMenus","storage","privacy","contentSettings","scripting","webNavigation"
     ],
     "host_permissions": [
         "<all_urls>","*://*/*","http://*/*","https://*/*"
