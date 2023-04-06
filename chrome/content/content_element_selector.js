@@ -4,8 +4,10 @@ var element_selector =
     {
         while(element = element.parentNode)
         {
-            if(element.id && document.querySelectorAll("#" + element.id).length === 1){
-                return element.id;
+            if(typeof(element.id) === "string" && element.id.length > 0 && !(element.id[0] >= '0' && element.id[0] <= '9')){
+                if(document.querySelectorAll("#" + element.id).length === 1){
+                    return element.id;
+                }
             }
         }
         return null;

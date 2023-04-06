@@ -1,1 +1,152 @@
-{"empty_allowed":{"message":"エンプティ可"},"loop":{"message":"ループ"},"third_party_cookies_tips":{"message":"サードパーティ・クッキーは、所有者以外の誰か（サードパーティ）によってウェブサイトに設置され、サードパーティのためにユーザーデータを収集するものです。 標準的なクッキーと同様に、サードパーティ・クッキーは、ウェブサイトが後日ユーザーに関する何らかの情報を記憶できるように設置されます。 しかし、サードパーティクッキーは、売上やページヒット数を増やすことを目的として、ウェブサイトが加入している広告ネットワークによって設定されることがよくあります。"},"once":{"message":"一度"},"prevent_webrtc_ip_leaks":{"message":"WebRTCからのIP漏えいを防止する"},"remove_overlay":{"message":"オーバーレイの削除"},"yes":{"message":"はい"},"no":{"message":"いいえ"},"remove_anti_ad_blocker_layer":{"message":"アンチアドブロック層の削除"},"select_web_element":{"message":"現在のページから要素を選択してください。"},"popups":{"message":"ポップアップウィンドウ"},"remove":{"message":"削除"},"enable_do_not_track":{"message":"Do Not Track を有効にする"},"origin":{"message":"オリジナル"},"disable_third_party_cookies":{"message":"サードパーティーのCookieを無効にする"},"appname":{"message":"ウェブオプティマイザー"},"unlock_copy_restriction":{"message":"コピー制限を解除する"},"prevent_visibility_detection":{"message":"視認性検知を防ぐ"},"show_all":{"message":"すべて表示する"},"webrtc_leak_ip_tips":{"message":"WebRTCは、プロキシやVPNを使用しても、実際のIPアドレスが漏れることがあります。"},"download_manager":{"message":"ダウンロードマネージャー"},"filter_out":{"message":"フィルターアウト"},"path":{"message":"道程"},"replace_words":{"message":"置換ワード"},"unlock_text_select_restriction":{"message":"テキスト選択制限を解除する"},"cancel":{"message":"キャンセル"},"unlock_contextmenu":{"message":"コンテキストメニューのロックを解除する"},"auto_click":{"message":"自動クリック"},"settings":{"message":"設定方法"},"copy":{"message":"コピー"},"prevent_visibility_detection_tips":{"message":"ウェブサイトは、あなたの視認性を追跡することができます。 例えば、広告を60秒間表示させてからビデオを表示させることができます。 ブラウザを最小化したり、別のタブに切り替えたりすると、サイト側はそれを検知してカウントダウンを一時停止することができます。 (この機能は使えない可能性があります）。"},"test":{"message":"テスト"},"slow_down_web_page_tips":{"message":"この機能を使用すると、ウェブページの表示速度に若干の影響が出る場合があります"},"block_popup_windows":{"message":"ポップアップをブロックする"},"paste":{"message":"貼り付け"},"add":{"message":"追加"},"save":{"message":"セーブ"},"auto_clicks":{"message":"自動クリック"},"do_not_track_tips":{"message":"Webサイトに追跡しないよう伝える。 (まだ使えます)"},"block_notification":{"message":"ブロック通知"},"selector":{"message":"セレクター"},"disable_geolocation":{"message":"ジオロケーションを無効にする"},"host":{"message":"ホスト"},"replaced":{"message":"に置き換える。"},"disable_leave_site_alert":{"message":"離席アラートを無効にする"},"filter":{"message":"フィルター"},"total":{"message":"合計"},"block_element":{"message":"ブロック化要素"},"interval":{"message":"インターバル"}}
+{
+  "description": {
+    "message": "制限の解除、プライバシーの保護、迷惑要素の削除、自動クリック、嫌いな言葉の置き換えなど。"
+  },
+  "empty_allowed": {
+    "message": "エンプティ可"
+  },
+  "loop": {
+    "message": "ループ"
+  },
+  "third_party_cookies_tips": {
+    "message": "サードパーティ・クッキーは、所有者以外の誰か（サードパーティ）によってウェブサイトに設置され、サードパーティのためにユーザーデータを収集するものです。 標準的なクッキーと同様に、サードパーティ・クッキーは、ウェブサイトが後日ユーザーに関する何らかの情報を記憶できるように設置されます。 しかし、サードパーティクッキーは、売上やページヒット数を増やすことを目的として、ウェブサイトが加入している広告ネットワークによって設定されることがよくあります。"
+  },
+  "once": {
+    "message": "一度"
+  },
+  "prevent_webrtc_ip_leaks": {
+    "message": "WebRTCからのIP漏えいを防止する"
+  },
+  "remove_overlay": {
+    "message": "オーバーレイの削除"
+  },
+  "yes": {
+    "message": "はい"
+  },
+  "no": {
+    "message": "いいえ"
+  },
+  "remove_anti_ad_blocker_layer": {
+    "message": "アンチアドブロック層の削除"
+  },
+  "select_web_element": {
+    "message": "現在のページから要素を選択してください。"
+  },
+  "popups": {
+    "message": "ポップアップウィンドウ"
+  },
+  "remove": {
+    "message": "削除"
+  },
+  "enable_do_not_track": {
+    "message": "Do Not Track を有効にする"
+  },
+  "origin": {
+    "message": "オリジナル"
+  },
+  "disable_third_party_cookies": {
+    "message": "サードパーティーのCookieを無効にする"
+  },
+  "appname": {
+    "message": "ウェブオプティマイザー"
+  },
+  "unlock_copy_restriction": {
+    "message": "コピー制限を解除する"
+  },
+  "prevent_visibility_detection": {
+    "message": "視認性検知を防ぐ"
+  },
+  "show_all": {
+    "message": "すべて表示する"
+  },
+  "webrtc_leak_ip_tips": {
+    "message": "WebRTCは、プロキシやVPNを使用しても、実際のIPアドレスが漏れることがあります。"
+  },
+  "download_manager": {
+    "message": "ダウンロードマネージャー"
+  },
+  "filter_out": {
+    "message": "フィルターアウト"
+  },
+  "path": {
+    "message": "道程"
+  },
+  "replace_words": {
+    "message": "置換ワード"
+  },
+  "unlock_text_select_restriction": {
+    "message": "テキスト選択制限を解除する"
+  },
+  "cancel": {
+    "message": "キャンセル"
+  },
+  "unlock_contextmenu": {
+    "message": "コンテキストメニューのロックを解除する"
+  },
+  "auto_click": {
+    "message": "自動クリック"
+  },
+  "settings": {
+    "message": "設定方法"
+  },
+  "copy": {
+    "message": "コピー"
+  },
+  "prevent_visibility_detection_tips": {
+    "message": "ウェブサイトは、あなたの視認性を追跡することができます。 例えば、広告を60秒間表示させてからビデオを表示させることができます。 ブラウザを最小化したり、別のタブに切り替えたりすると、サイト側はそれを検知してカウントダウンを一時停止することができます。 (この機能は使えない可能性があります）。"
+  },
+  "test": {
+    "message": "テスト"
+  },
+  "slow_down_web_page_tips": {
+    "message": "この機能を使用すると、ウェブページの表示速度に若干の影響が出る場合があります"
+  },
+  "block_popup_windows": {
+    "message": "ポップアップをブロックする"
+  },
+  "paste": {
+    "message": "貼り付け"
+  },
+  "add": {
+    "message": "追加"
+  },
+  "save": {
+    "message": "セーブ"
+  },
+  "auto_clicks": {
+    "message": "自動クリック"
+  },
+  "do_not_track_tips": {
+    "message": "Webサイトに追跡しないよう伝える。 (まだ使えます)"
+  },
+  "block_notification": {
+    "message": "ブロック通知"
+  },
+  "selector": {
+    "message": "セレクター"
+  },
+  "disable_geolocation": {
+    "message": "ジオロケーションを無効にする"
+  },
+  "host": {
+    "message": "ホスト"
+  },
+  "replaced": {
+    "message": "に置き換える。"
+  },
+  "disable_leave_site_alert": {
+    "message": "離席アラートを無効にする"
+  },
+  "filter": {
+    "message": "フィルター"
+  },
+  "total": {
+    "message": "合計"
+  },
+  "block_element": {
+    "message": "ブロック化要素"
+  },
+  "interval": {
+    "message": "インターバル"
+  }
+}

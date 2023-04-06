@@ -17,9 +17,18 @@ var content_auto_click =
     },
     add_loop:function(rule)
     {
-        content_auto_click.loop_handlers[rule.selector] = setInterval(function(){
+        var clicked = 0;
+        var handler = setInterval(function()
+        {
             content_auto_click.exec(rule.selector);
+            
+            if(++clicked >= rule.total){
+                clearInterval(handler);
+                delete content_auto_click.loop_handlers[rule.selector];
+            }
         },Math.max(10,rule.interval));
+
+        content_auto_click.loop_handlers[rule.selector] = handler;
     },
     update_rules:function(rules)
     {
@@ -69,7 +78,7 @@ var content_auto_click =
     {
         var dialog = null;
         var new_label = function(text) {
-            return Std.ui("Label",{text:text})
+            return Std.ui("Label",{text:text,css:{wordBreak:"keep-all",whiteSpace:"nowrap"}})
         }
         var btn_cancel = {
             ui:"Button",
@@ -166,7 +175,7 @@ var content_auto_click =
                         path,
                     ]
                 },
-                new_label("CSS:" + lang("selector") + ": "),
+                new_label("CSS " + lang("selector") + ": "),
                 selector_edit,
                 {
                     ui:"HBoxLayout",

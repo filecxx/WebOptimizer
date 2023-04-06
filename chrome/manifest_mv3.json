@@ -1,8 +1,8 @@
 {
     "manifest_version":3,
     "name":"__MSG_appname__",
-    "version":"1.0",
-    "description":"Unlock restrictions, protect your privacy, remove annoying elements, auto clicks, and replace disliked words.",
+    "version":"1.1",
+    "description":"__MSG_description__",
     "homepage_url": "https://github.com/filecxx/WebOptimizer",
     "default_locale":"en",
     "icons": {
@@ -38,7 +38,7 @@
         }
     ],
     "permissions":[
-        "tabs","webNavigation","contextMenus","storage","privacy","contentSettings","scripting"
+        "tabs","contextMenus","storage","privacy","contentSettings","scripting"
     ],
     "host_permissions": [
         "<all_urls>","*://*/*","http://*/*","https://*/*"

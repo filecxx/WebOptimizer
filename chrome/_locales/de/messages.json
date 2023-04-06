@@ -1,1 +1,152 @@
-{"empty_allowed":{"message":"Leere erlaubt"},"loop":{"message":"Schleife"},"third_party_cookies_tips":{"message":"Ein Drittanbieter-Cookie wird von einer anderen Person als dem Eigentümer (einem Dritten) auf einer Website platziert und sammelt Nutzerdaten für den Dritten. Wie bei Standard-Cookies werden Drittanbieter-Cookies platziert, damit sich eine Website zu einem späteren Zeitpunkt an etwas über den Benutzer erinnern kann. Cookies von Drittanbietern werden jedoch häufig von Werbenetzwerken gesetzt, bei denen eine Website abonniert ist, in der Hoffnung, den Umsatz oder die Seitenaufrufe zu steigern."},"once":{"message":"Einmal"},"prevent_webrtc_ip_leaks":{"message":"Verhindern von WebRTC-IP-Lecks"},"remove_overlay":{"message":"Overlay entfernen"},"yes":{"message":"Ja"},"no":{"message":"Nein"},"remove_anti_ad_blocker_layer":{"message":"Anti-Werbeblocker-Ebene entfernen"},"select_web_element":{"message":"Bitte wählen Sie ein Element auf der aktuellen Seite aus."},"popups":{"message":"Popups"},"remove":{"message":"entfernen"},"enable_do_not_track":{"message":"Nicht verfolgen aktivieren"},"origin":{"message":"Herkunft"},"disable_third_party_cookies":{"message":"Cookies von Drittanbietern deaktivieren"},"appname":{"message":"Web-Optimierer"},"unlock_copy_restriction":{"message":"Kopierbeschränkung aufheben"},"prevent_visibility_detection":{"message":"Erkennung der Sichtbarkeit verhindern"},"show_all":{"message":"Alle anzeigen"},"webrtc_leak_ip_tips":{"message":"WebRTC gibt Ihre echte IP-Adresse preis, auch wenn Sie einen Proxy oder VPN verwenden."},"download_manager":{"message":"Download-Manager"},"filter_out":{"message":"Herausfiltern"},"path":{"message":"Pfad"},"replace_words":{"message":"Wörter ersetzen"},"unlock_text_select_restriction":{"message":"Beschränkung der Textauswahl aufheben"},"cancel":{"message":"Abbrechen"},"unlock_contextmenu":{"message":"Kontextmenü freischalten"},"auto_click":{"message":"Automatischer Klick"},"settings":{"message":"Einstellungen"},"copy":{"message":"Kopieren"},"prevent_visibility_detection_tips":{"message":"Websites können Ihre Sichtbarkeit verfolgen. Sie können Sie z. B. dazu bringen, 60 Sekunden lang Anzeigen zu betrachten, bevor Sie das Video sehen können. Wenn Sie Ihren Browser minimieren oder zu einer anderen Registerkarte wechseln, kann die Website dies erkennen und den Countdown unterbrechen. (Diese Funktion wird wahrscheinlich nicht funktionieren.)"},"test":{"message":"Testen Sie"},"slow_down_web_page_tips":{"message":"Die Verwendung dieser Funktion kann sich leicht auf die Geschwindigkeit Ihrer Webseite auswirken."},"block_popup_windows":{"message":"Popup-Fenster blockieren"},"paste":{"message":"einfügen"},"add":{"message":"Hinzufügen"},"save":{"message":"Speichern"},"auto_clicks":{"message":"Automatische Klicks"},"do_not_track_tips":{"message":"Sagen Sie Websites, dass sie Sie nicht verfolgen sollen. (Sie können es trotzdem tun)"},"block_notification":{"message":"Benachrichtigung blockieren"},"selector":{"message":"Selektor"},"disable_geolocation":{"message":"Geolokalisierung deaktivieren"},"host":{"message":"Host"},"replaced":{"message":"Ersetzt"},"disable_leave_site_alert":{"message":"Alarm beim Verlassen der Seite deaktivieren"},"filter":{"message":"Filter"},"total":{"message":"Gesamt"},"block_element":{"message":"Element sperren"},"interval":{"message":"Intervall"}}
+{
+  "description": {
+    "message": "Entsperren Sie Einschränkungen, schützen Sie Ihre Privatsphäre, entfernen Sie störende Elemente, automatische Klicks und ersetzen Sie ungeliebte Wörter."
+  },
+  "empty_allowed": {
+    "message": "Leere erlaubt"
+  },
+  "loop": {
+    "message": "Schleife"
+  },
+  "third_party_cookies_tips": {
+    "message": "Ein Drittanbieter-Cookie wird von einer anderen Person als dem Eigentümer (einem Dritten) auf einer Website platziert und sammelt Nutzerdaten für den Dritten. Wie bei Standard-Cookies werden Drittanbieter-Cookies platziert, damit sich eine Website zu einem späteren Zeitpunkt an etwas über den Benutzer erinnern kann. Cookies von Drittanbietern werden jedoch häufig von Werbenetzwerken gesetzt, bei denen eine Website abonniert ist, in der Hoffnung, den Umsatz oder die Seitenaufrufe zu steigern."
+  },
+  "once": {
+    "message": "Einmal"
+  },
+  "prevent_webrtc_ip_leaks": {
+    "message": "Verhindern von WebRTC-IP-Lecks"
+  },
+  "remove_overlay": {
+    "message": "Overlay entfernen"
+  },
+  "yes": {
+    "message": "Ja"
+  },
+  "no": {
+    "message": "Nein"
+  },
+  "remove_anti_ad_blocker_layer": {
+    "message": "Anti-Werbeblocker-Ebene entfernen"
+  },
+  "select_web_element": {
+    "message": "Bitte wählen Sie ein Element auf der aktuellen Seite aus."
+  },
+  "popups": {
+    "message": "Popups"
+  },
+  "remove": {
+    "message": "entfernen"
+  },
+  "enable_do_not_track": {
+    "message": "Nicht verfolgen aktivieren"
+  },
+  "origin": {
+    "message": "Herkunft"
+  },
+  "disable_third_party_cookies": {
+    "message": "Cookies von Drittanbietern deaktivieren"
+  },
+  "appname": {
+    "message": "Web-Optimierer"
+  },
+  "unlock_copy_restriction": {
+    "message": "Kopierbeschränkung aufheben"
+  },
+  "prevent_visibility_detection": {
+    "message": "Erkennung der Sichtbarkeit verhindern"
+  },
+  "show_all": {
+    "message": "Alle anzeigen"
+  },
+  "webrtc_leak_ip_tips": {
+    "message": "WebRTC gibt Ihre echte IP-Adresse preis, auch wenn Sie einen Proxy oder VPN verwenden."
+  },
+  "download_manager": {
+    "message": "Download-Manager"
+  },
+  "filter_out": {
+    "message": "Herausfiltern"
+  },
+  "path": {
+    "message": "Pfad"
+  },
+  "replace_words": {
+    "message": "Wörter ersetzen"
+  },
+  "unlock_text_select_restriction": {
+    "message": "Beschränkung der Textauswahl aufheben"
+  },
+  "cancel": {
+    "message": "Abbrechen"
+  },
+  "unlock_contextmenu": {
+    "message": "Kontextmenü freischalten"
+  },
+  "auto_click": {
+    "message": "Automatischer Klick"
+  },
+  "settings": {
+    "message": "Einstellungen"
+  },
+  "copy": {
+    "message": "Kopieren"
+  },
+  "prevent_visibility_detection_tips": {
+    "message": "Websites können Ihre Sichtbarkeit verfolgen. Sie können Sie z. B. dazu bringen, 60 Sekunden lang Anzeigen zu betrachten, bevor Sie das Video sehen können. Wenn Sie Ihren Browser minimieren oder zu einer anderen Registerkarte wechseln, kann die Website dies erkennen und den Countdown unterbrechen. (Diese Funktion wird wahrscheinlich nicht funktionieren.)"
+  },
+  "test": {
+    "message": "Testen Sie"
+  },
+  "slow_down_web_page_tips": {
+    "message": "Die Verwendung dieser Funktion kann sich leicht auf die Geschwindigkeit Ihrer Webseite auswirken."
+  },
+  "block_popup_windows": {
+    "message": "Popup-Fenster blockieren"
+  },
+  "paste": {
+    "message": "einfügen"
+  },
+  "add": {
+    "message": "Hinzufügen"
+  },
+  "save": {
+    "message": "Speichern"
+  },
+  "auto_clicks": {
+    "message": "Automatische Klicks"
+  },
+  "do_not_track_tips": {
+    "message": "Sagen Sie Websites, dass sie Sie nicht verfolgen sollen. (Sie können es trotzdem tun)"
+  },
+  "block_notification": {
+    "message": "Benachrichtigung blockieren"
+  },
+  "selector": {
+    "message": "Selektor"
+  },
+  "disable_geolocation": {
+    "message": "Geolokalisierung deaktivieren"
+  },
+  "host": {
+    "message": "Host"
+  },
+  "replaced": {
+    "message": "Ersetzt"
+  },
+  "disable_leave_site_alert": {
+    "message": "Alarm beim Verlassen der Seite deaktivieren"
+  },
+  "filter": {
+    "message": "Filter"
+  },
+  "total": {
+    "message": "Gesamt"
+  },
+  "block_element": {
+    "message": "Element sperren"
+  },
+  "interval": {
+    "message": "Intervall"
+  }
+}

@@ -1,1 +1,152 @@
-{"empty_allowed":{"message":"비어 있음 허용"},"loop":{"message":"Loop"},"third_party_cookies_tips":{"message":"제3자 쿠키는 웹사이트 소유자가 아닌 다른 사람(제3자)이 제3자를 위해 사용자 데이터를 수집하기 위해 웹사이트에 배치하는 쿠키입니다. 표준 쿠키와 마찬가지로 제3자 쿠키는 웹사이트가 나중에 사용자에 대한 일부 정보를 기억할 수 있도록 배치됩니다. 그러나 타사 쿠키는 판매 또는 페이지 조회수를 늘리기 위해 웹사이트가 구독할 수 있는 광고 네트워크에서 설정하는 경우가 많습니다."},"once":{"message":"한 번"},"prevent_webrtc_ip_leaks":{"message":"WebRTC에서 IP 유출 방지"},"remove_overlay":{"message":"오버레이 제거"},"yes":{"message":"예"},"no":{"message":"아니요"},"remove_anti_ad_blocker_layer":{"message":"차단 방지 레이어 제거"},"select_web_element":{"message":"현재 페이지에서 요소를 선택하세요."},"popups":{"message":"팝업 창"},"remove":{"message":"제거"},"enable_do_not_track":{"message":"추적 금지 활성화"},"origin":{"message":"원본"},"disable_third_party_cookies":{"message":"타사 쿠키 비활성화"},"appname":{"message":"웹 최적화 도구"},"unlock_copy_restriction":{"message":"복사 제한 차단 해제"},"prevent_visibility_detection":{"message":"가시성 감지 방지"},"show_all":{"message":"모두 표시"},"webrtc_leak_ip_tips":{"message":"프록시나 VPN을 사용하더라도 WebRTC는 실제 IP 주소를 유출할 수 있습니다."},"download_manager":{"message":"다운로드 관리자"},"filter_out":{"message":"필터링"},"path":{"message":"경로"},"replace_words":{"message":"대체 단어"},"unlock_text_select_restriction":{"message":"텍스트 선택 제한 잠금 해제"},"cancel":{"message":"취소"},"unlock_contextmenu":{"message":"컨텍스트 메뉴 잠금 해제"},"auto_click":{"message":"자동 클릭"},"settings":{"message":"설정"},"copy":{"message":"복사"},"prevent_visibility_detection_tips":{"message":"웹사이트는 사용자의 노출 여부를 추적할 수 있습니다. 예를 들어, 60초 동안 광고를 시청한 후 동영상 시청을 허용할 수 있습니다. 브라우저를 최소화하거나 다른 탭으로 전환하면 사이트가 이를 감지하고 카운트다운을 일시 중지할 수 있습니다. (이 기능이 작동하지 않을 가능성이 있습니다.)"},"test":{"message":"테스트"},"slow_down_web_page_tips":{"message":"이 기능을 사용하면 웹 페이지 속도에 약간의 영향을 미칠 수 있습니다."},"block_popup_windows":{"message":"팝업 차단하기"},"paste":{"message":"붙여넣기"},"add":{"message":"추가"},"save":{"message":"저장"},"auto_clicks":{"message":"자동 클릭"},"do_not_track_tips":{"message":"웹사이트가 사용자를 추적하지 못하도록 합니다. (여전히 작동합니다.)"},"block_notification":{"message":"알림 차단"},"selector":{"message":"선택기"},"disable_geolocation":{"message":"지리적 위치 비활성화"},"host":{"message":"호스트"},"replaced":{"message":"다음으로 바꾸기"},"disable_leave_site_alert":{"message":"사이트 이탈 알림 비활성화"},"filter":{"message":"필터"},"total":{"message":"전체"},"block_element":{"message":"차단 요소"},"interval":{"message":"간격"}}
+{
+  "description": {
+    "message": "제한 해제, 개인 정보 보호, 성가신 요소 제거, 자동 클릭, 싫어하는 단어 바꾸기 등의 기능을 사용하세요."
+  },
+  "empty_allowed": {
+    "message": "비어 있음 허용"
+  },
+  "loop": {
+    "message": "Loop"
+  },
+  "third_party_cookies_tips": {
+    "message": "제3자 쿠키는 웹사이트 소유자가 아닌 다른 사람(제3자)이 제3자를 위해 사용자 데이터를 수집하기 위해 웹사이트에 배치하는 쿠키입니다. 표준 쿠키와 마찬가지로 제3자 쿠키는 웹사이트가 나중에 사용자에 대한 일부 정보를 기억할 수 있도록 배치됩니다. 그러나 타사 쿠키는 판매 또는 페이지 조회수를 늘리기 위해 웹사이트가 구독할 수 있는 광고 네트워크에서 설정하는 경우가 많습니다."
+  },
+  "once": {
+    "message": "한 번"
+  },
+  "prevent_webrtc_ip_leaks": {
+    "message": "WebRTC에서 IP 유출 방지"
+  },
+  "remove_overlay": {
+    "message": "오버레이 제거"
+  },
+  "yes": {
+    "message": "예"
+  },
+  "no": {
+    "message": "아니요"
+  },
+  "remove_anti_ad_blocker_layer": {
+    "message": "차단 방지 레이어 제거"
+  },
+  "select_web_element": {
+    "message": "현재 페이지에서 요소를 선택하세요."
+  },
+  "popups": {
+    "message": "팝업 창"
+  },
+  "remove": {
+    "message": "제거"
+  },
+  "enable_do_not_track": {
+    "message": "추적 금지 활성화"
+  },
+  "origin": {
+    "message": "원본"
+  },
+  "disable_third_party_cookies": {
+    "message": "타사 쿠키 비활성화"
+  },
+  "appname": {
+    "message": "웹 최적화 도구"
+  },
+  "unlock_copy_restriction": {
+    "message": "복사 제한 차단 해제"
+  },
+  "prevent_visibility_detection": {
+    "message": "가시성 감지 방지"
+  },
+  "show_all": {
+    "message": "모두 표시"
+  },
+  "webrtc_leak_ip_tips": {
+    "message": "프록시나 VPN을 사용하더라도 WebRTC는 실제 IP 주소를 유출할 수 있습니다."
+  },
+  "download_manager": {
+    "message": "다운로드 관리자"
+  },
+  "filter_out": {
+    "message": "필터링"
+  },
+  "path": {
+    "message": "경로"
+  },
+  "replace_words": {
+    "message": "대체 단어"
+  },
+  "unlock_text_select_restriction": {
+    "message": "텍스트 선택 제한 잠금 해제"
+  },
+  "cancel": {
+    "message": "취소"
+  },
+  "unlock_contextmenu": {
+    "message": "컨텍스트 메뉴 잠금 해제"
+  },
+  "auto_click": {
+    "message": "자동 클릭"
+  },
+  "settings": {
+    "message": "설정"
+  },
+  "copy": {
+    "message": "복사"
+  },
+  "prevent_visibility_detection_tips": {
+    "message": "웹사이트는 사용자의 노출 여부를 추적할 수 있습니다. 예를 들어, 60초 동안 광고를 시청한 후 동영상 시청을 허용할 수 있습니다. 브라우저를 최소화하거나 다른 탭으로 전환하면 사이트가 이를 감지하고 카운트다운을 일시 중지할 수 있습니다. (이 기능이 작동하지 않을 가능성이 있습니다.)"
+  },
+  "test": {
+    "message": "테스트"
+  },
+  "slow_down_web_page_tips": {
+    "message": "이 기능을 사용하면 웹 페이지 속도에 약간의 영향을 미칠 수 있습니다."
+  },
+  "block_popup_windows": {
+    "message": "팝업 차단하기"
+  },
+  "paste": {
+    "message": "붙여넣기"
+  },
+  "add": {
+    "message": "추가"
+  },
+  "save": {
+    "message": "저장"
+  },
+  "auto_clicks": {
+    "message": "자동 클릭"
+  },
+  "do_not_track_tips": {
+    "message": "웹사이트가 사용자를 추적하지 못하도록 합니다. (여전히 작동합니다.)"
+  },
+  "block_notification": {
+    "message": "알림 차단"
+  },
+  "selector": {
+    "message": "선택기"
+  },
+  "disable_geolocation": {
+    "message": "지리적 위치 비활성화"
+  },
+  "host": {
+    "message": "호스트"
+  },
+  "replaced": {
+    "message": "다음으로 바꾸기"
+  },
+  "disable_leave_site_alert": {
+    "message": "사이트 이탈 알림 비활성화"
+  },
+  "filter": {
+    "message": "필터"
+  },
+  "total": {
+    "message": "전체"
+  },
+  "block_element": {
+    "message": "차단 요소"
+  },
+  "interval": {
+    "message": "간격"
+  }
+}

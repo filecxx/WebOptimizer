@@ -1,1 +1,152 @@
-{"empty_allowed":{"message":"Vide autorisé"},"loop":{"message":"Boucle"},"third_party_cookies_tips":{"message":"Un cookie tiers est placé sur un site web par une personne autre que le propriétaire (un tiers) et recueille des données sur l'utilisateur pour le compte du tiers. Comme pour les cookies standard, les cookies tiers sont placés de manière à ce qu'un site puisse se souvenir ultérieurement d'un élément concernant l'utilisateur. Cependant, les cookies tiers sont souvent placés par des réseaux publicitaires auxquels un site peut souscrire dans l'espoir d'augmenter les ventes ou le nombre de pages visitées."},"once":{"message":"Une fois que"},"prevent_webrtc_ip_leaks":{"message":"Empêcher les fuites d'IP WebRTC"},"remove_overlay":{"message":"Supprimer la superposition"},"yes":{"message":"Oui"},"no":{"message":"Non"},"remove_anti_ad_blocker_layer":{"message":"Supprimer la couche anti-bloqueur de publicité"},"select_web_element":{"message":"Veuillez sélectionner un élément de la page actuelle."},"popups":{"message":"Popups"},"remove":{"message":"Supprimer"},"enable_do_not_track":{"message":"Activer la fonction ne pas suivre (do not track)"},"origin":{"message":"Origine"},"disable_third_party_cookies":{"message":"Désactiver les cookies tiers"},"appname":{"message":"Optimiseur Web"},"unlock_copy_restriction":{"message":"Déverrouiller la restriction de copie"},"prevent_visibility_detection":{"message":"Empêcher la détection de la visibilité"},"show_all":{"message":"Tout afficher"},"webrtc_leak_ip_tips":{"message":"WebRTC laissera filtrer votre adresse IP réelle même si vous utilisez un proxy ou un VPN."},"download_manager":{"message":"Gestionnaire de téléchargement"},"filter_out":{"message":"Filtrer"},"path":{"message":"Chemin d'accès"},"replace_words":{"message":"Remplacer les mots"},"unlock_text_select_restriction":{"message":"Déverrouiller la restriction de sélection de texte"},"cancel":{"message":"Annuler"},"unlock_contextmenu":{"message":"Déverrouiller le menu contextuel"},"auto_click":{"message":"Clic automatique"},"settings":{"message":"Paramètres"},"copy":{"message":"Copie"},"prevent_visibility_detection_tips":{"message":"Les sites web peuvent suivre votre visibilité. Par exemple, ils peuvent vous obliger à regarder des publicités pendant 60 secondes avant de vous permettre de visionner la vidéo. Si vous réduisez votre navigateur ou changez d'onglet, le site web peut le détecter et interrompre le compte à rebours. (Il est probable que cette fonction ne fonctionne pas)."},"test":{"message":"Test"},"slow_down_web_page_tips":{"message":"L'utilisation de cette fonction peut avoir un léger impact sur la vitesse de votre page web."},"block_popup_windows":{"message":"Bloquer les fenêtres pop-up"},"paste":{"message":"Coller"},"add":{"message":"Ajouter"},"save":{"message":"Sauvegarder"},"auto_clicks":{"message":"Clics automatiques"},"do_not_track_tips":{"message":"Dites aux sites web de ne pas vous pister. (ils peuvent toujours le faire)"},"block_notification":{"message":"Notification de blocage"},"selector":{"message":"Sélecteur"},"disable_geolocation":{"message":"Désactiver la géolocalisation"},"host":{"message":"Hôte"},"replaced":{"message":"Remplacé"},"disable_leave_site_alert":{"message":"Désactiver l'alerte de départ du site"},"filter":{"message":"Filtre"},"total":{"message":"Total"},"block_element":{"message":"Élément de blocage"},"interval":{"message":"Intervalle"}}
+{
+  "description": {
+    "message": "Déverrouillez les restrictions, protégez votre vie privée, supprimez les éléments gênants, les clics automatiques et remplacez les mots que vous n'aimez pas."
+  },
+  "empty_allowed": {
+    "message": "Vide autorisé"
+  },
+  "loop": {
+    "message": "Boucle"
+  },
+  "third_party_cookies_tips": {
+    "message": "Un cookie tiers est placé sur un site web par une personne autre que le propriétaire (un tiers) et recueille des données sur l'utilisateur pour le compte du tiers. Comme pour les cookies standard, les cookies tiers sont placés de manière à ce qu'un site puisse se souvenir ultérieurement d'un élément concernant l'utilisateur. Cependant, les cookies tiers sont souvent placés par des réseaux publicitaires auxquels un site peut souscrire dans l'espoir d'augmenter les ventes ou le nombre de pages visitées."
+  },
+  "once": {
+    "message": "Une fois que"
+  },
+  "prevent_webrtc_ip_leaks": {
+    "message": "Empêcher les fuites d'IP WebRTC"
+  },
+  "remove_overlay": {
+    "message": "Supprimer la superposition"
+  },
+  "yes": {
+    "message": "Oui"
+  },
+  "no": {
+    "message": "Non"
+  },
+  "remove_anti_ad_blocker_layer": {
+    "message": "Supprimer la couche anti-bloqueur de publicité"
+  },
+  "select_web_element": {
+    "message": "Veuillez sélectionner un élément de la page actuelle."
+  },
+  "popups": {
+    "message": "Popups"
+  },
+  "remove": {
+    "message": "Supprimer"
+  },
+  "enable_do_not_track": {
+    "message": "Activer la fonction ne pas suivre (do not track)"
+  },
+  "origin": {
+    "message": "Origine"
+  },
+  "disable_third_party_cookies": {
+    "message": "Désactiver les cookies tiers"
+  },
+  "appname": {
+    "message": "Optimiseur Web"
+  },
+  "unlock_copy_restriction": {
+    "message": "Déverrouiller la restriction de copie"
+  },
+  "prevent_visibility_detection": {
+    "message": "Empêcher la détection de la visibilité"
+  },
+  "show_all": {
+    "message": "Tout afficher"
+  },
+  "webrtc_leak_ip_tips": {
+    "message": "WebRTC laissera filtrer votre adresse IP réelle même si vous utilisez un proxy ou un VPN."
+  },
+  "download_manager": {
+    "message": "Gestionnaire de téléchargement"
+  },
+  "filter_out": {
+    "message": "Filtrer"
+  },
+  "path": {
+    "message": "Chemin d'accès"
+  },
+  "replace_words": {
+    "message": "Remplacer les mots"
+  },
+  "unlock_text_select_restriction": {
+    "message": "Déverrouiller la restriction de sélection de texte"
+  },
+  "cancel": {
+    "message": "Annuler"
+  },
+  "unlock_contextmenu": {
+    "message": "Déverrouiller le menu contextuel"
+  },
+  "auto_click": {
+    "message": "Clic automatique"
+  },
+  "settings": {
+    "message": "Paramètres"
+  },
+  "copy": {
+    "message": "Copie"
+  },
+  "prevent_visibility_detection_tips": {
+    "message": "Les sites web peuvent suivre votre visibilité. Par exemple, ils peuvent vous obliger à regarder des publicités pendant 60 secondes avant de vous permettre de visionner la vidéo. Si vous réduisez votre navigateur ou changez d'onglet, le site web peut le détecter et interrompre le compte à rebours. (Il est probable que cette fonction ne fonctionne pas)."
+  },
+  "test": {
+    "message": "Test"
+  },
+  "slow_down_web_page_tips": {
+    "message": "L'utilisation de cette fonction peut avoir un léger impact sur la vitesse de votre page web."
+  },
+  "block_popup_windows": {
+    "message": "Bloquer les fenêtres pop-up"
+  },
+  "paste": {
+    "message": "Coller"
+  },
+  "add": {
+    "message": "Ajouter"
+  },
+  "save": {
+    "message": "Sauvegarder"
+  },
+  "auto_clicks": {
+    "message": "Clics automatiques"
+  },
+  "do_not_track_tips": {
+    "message": "Dites aux sites web de ne pas vous pister. (ils peuvent toujours le faire)"
+  },
+  "block_notification": {
+    "message": "Notification de blocage"
+  },
+  "selector": {
+    "message": "Sélecteur"
+  },
+  "disable_geolocation": {
+    "message": "Désactiver la géolocalisation"
+  },
+  "host": {
+    "message": "Hôte"
+  },
+  "replaced": {
+    "message": "Remplacé"
+  },
+  "disable_leave_site_alert": {
+    "message": "Désactiver l'alerte de départ du site"
+  },
+  "filter": {
+    "message": "Filtre"
+  },
+  "total": {
+    "message": "Total"
+  },
+  "block_element": {
+    "message": "Élément de blocage"
+  },
+  "interval": {
+    "message": "Intervalle"
+  }
+}

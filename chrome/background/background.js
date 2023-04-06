@@ -13,6 +13,7 @@ if(manifest_version === 3){
 
 chrome.storage.local.get({settings:config.settings,auto_clicks:config.auto_clicks,replace_words:config.replace_words},(values)=>
 {
+
     config.settings      = values.settings;
     config.auto_clicks   = values.auto_clicks;
     config.replace_words = values.replace_words;
@@ -86,7 +87,11 @@ chrome.storage.local.get({settings:config.settings,auto_clicks:config.auto_click
     }
     function block_notification(val)
     {
-        chrome.contentSettings['notifications'].set({primaryPattern: '<all_urls>', setting: val ? "block" : "ask"});
+        if(chrome.contentSettings){
+            chrome.contentSettings['notifications'].set({primaryPattern: '<all_urls>', setting: val ? "block" : "ask"});
+        }else if(chrome.browserSettings){
+            chrome.browserSettings.webNotificationsDisabled.set({value: val})
+        }
     }
     function add_auto_click(values)
     {
@@ -108,7 +113,6 @@ chrome.storage.local.get({settings:config.settings,auto_clicks:config.auto_click
     if(config.settings.block_notification){
         block_notification(true);
     }
-
     /*
      * init context menu
     */
@@ -133,6 +137,7 @@ chrome.storage.local.get({settings:config.settings,auto_clicks:config.auto_click
                 });
             });
         }else{
+
             chrome.contextMenus.create(
             {
                 title: lang("auto_click"),
@@ -224,6 +229,7 @@ chrome.storage.local.get({settings:config.settings,auto_clicks:config.auto_click
     chrome.runtime.onConnect.addListener((port) => {
         port.onMessage.addListener((msg) => {});
     });
+
     init_context_menu();
 
 

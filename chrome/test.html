@@ -13,6 +13,10 @@
             e.returnValue = "aa33a";
             return "aa33a";
         });
+
+        setTimeout(function(){
+            Notification.requestPermission(function(result){console.log(result);})
+        },1000)
     </script>
 </head>
 <body>
