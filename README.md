@@ -6,8 +6,11 @@ WebOptimizer browser extension.
 Unlock restrictions, protect your privacy, remove annoying elements, auto clicks, and replace disliked words.
 
 # Web Store
-Firefox: https://addons.mozilla.org/addon/weboptimizer/
+### <img src="webstore/images/firefox.png" width="32" height="32" alt="WebOptimizer Firefox" align="center" /> Firefox:
+https://addons.mozilla.org/addon/weboptimizer/
 
+### <img src="webstore/images/chrome.png" width="32" height="32" alt="WebOptimizer Chrome" align="center" /> Chrome:
+https://chrome.google.com/webstore/detail/web-optimizer/cnhiehgbljjkkiibdfochmcffldemhph
 
 # Features
 
