@@ -12,6 +12,9 @@ https://addons.mozilla.org/addon/weboptimizer/
 ### <img src="webstore/images/chrome.png" width="32" height="32" alt="WebOptimizer Chrome" align="center" /> Chrome:
 https://chrome.google.com/webstore/detail/web-optimizer/cnhiehgbljjkkiibdfochmcffldemhph
 
+### <img src="webstore/images/edge.png" width="32" height="32" alt="WebOptimizer Edge" align="center" /> Edge:
+https://microsoftedge.microsoft.com/addons/detail/web-optimizer/nidnebakmpakkpeolmfdfhdilpogjoim
+
 # Features
 
 #### Auto click elements from web pages
