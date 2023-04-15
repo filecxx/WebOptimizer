@@ -1,8 +1,10 @@
+[Inglés](./README.md)\|[chino simplificado](./README.zh-CN.md)\|[chino tradicional](./README.zh-TW.md)\|[coreano](./README.ko.md)\|[No](./README.hi.md)\|[Arábica](./README.ar.md)\|[Francés](./README.fr.md)\|[ruso](./README.ru.md)\|[latín](./README.la.md)\|[japonés](./README.ja.md)\|[italiano](./README.it.md)\|[Alemán](./README.de.md)\|[Español](./README.es.md)\|[sueco](./README.sv.md)
+
 ![image](chrome/icons/icon.png)
 
 # WebOptimizer
 
-WebOptimizer browser extension.
+Extensión del navegador WebOptimizer.
 
 Desbloquee restricciones, proteja su privacidad, elimine elementos molestos, haga clic automáticamente y reemplace las palabras que no le gustan.
 
