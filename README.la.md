@@ -1,3 +1,5 @@
+[Anglicus](./README.md)\|[Simplicior Sinica](./README.zh-CN.md)\|[traditional Sinica](./README.zh-TW.md)\|[Coreanica](./README.ko.md)\|[non](./README.hi.md)\|[Arabice](./README.ar.md)\|[Gallica](./README.fr.md)\|[Russian](./README.ru.md)\|[Latinus](./README.la.md)\|[Iaponica](./README.ja.md)\|[Italian](./README.it.md)\|[German](./README.de.md)\|[hispanice](./README.es.md)\|[Swedish](./README.sv.md)
+
 ![image](chrome/icons/icon.png)
 
 # WebOptimizer
@@ -91,7 +93,7 @@ Tabulae linguae:<https://github.com/filecxx/WebOptimizer/tree/master/chrome/_loc
 
 # Feature petitionem && Conlationem
 
-Non opus est ut novum navigatrum extensionem in hoc incepto creare nitatur.
+Non opus est ut novum navigatrum extensio in hoc incepto creare possit.
 
 Si pluma petitionem habes, simpliciter quaestionem pone.
 
