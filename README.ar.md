@@ -1,3 +1,5 @@
+[إنجليزي](./README.md)\|[الصينية المبسطة](./README.zh-CN.md)\|[الصينية التقليدية](./README.zh-TW.md)\|[الكورية](./README.ko.md)\|[لا](./README.hi.md)\|[عربي](./README.ar.md)\|[فرنسي](./README.fr.md)\|[الروسية](./README.ru.md)\|[لاتيني](./README.la.md)\|[اليابانية](./README.ja.md)\|[إيطالي](./README.it.md)\|[ألماني](./README.de.md)\|[الأسبانية](./README.es.md)\|[السويدية](./README.sv.md)
+
 ![image](chrome/icons/icon.png)
 
 # WebOptimizer
@@ -48,7 +50,7 @@
 
 #### منع اكتشاف الرؤية
 
-(يمكن لمواقع الويب تتبع ظهورك. على سبيل المثال ، قد تجعلك تشاهد الإعلانات لمدة 60 ثانية قبل السماح لك بمشاهدة الفيديو. إذا قمت بتصغير المتصفح أو التبديل إلى علامة تبويب مختلفة ، يمكن لموقع الويب اكتشافه وإيقاف العد التنازلي مؤقتًا. ( لن يعمل احتمال الميزة هذا.))
+(Websites can track your visibility. For instance, they may make you watch Ads for 60 seconds before allowing you to view the video. If you minimize your browser or switch to a different tab, the website can detect it and pause the countdown. (This feature probability won't work.))
 
 #### تمكين لا تتبع
 
@@ -87,7 +89,7 @@
 | فرنسي           | [تضمين التغريدة](https://github.com/filecxx) |
 | الروسية         | [تضمين التغريدة](https://github.com/filecxx) |
 
-ملفات اللغة:<https://github.com/filecxx/WebOptimizer/tree/master/chrome/_locales>
+ملفات اللغة:[هتبص://جذب.كوم/فيلسكسكس/وببطمزر/تري/ماستر/شرم/لسلس](https://github.com/filecxx/WebOptimizer/tree/master/chrome/_locales)
 
 # طلب الميزة والمساهمة
 
