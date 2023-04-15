@@ -1,10 +1,12 @@
+[英語](./README.md)\|[簡體中文](./README.zh-CN.md)\|[繁體中文](./README.zh-TW.md)\|[韓國人](./README.ko.md)\|[沒有](./README.hi.md) \| [阿拉伯](./README.ar.md)\|[法語](./README.fr.md)\|[俄語](./README.ru.md)\|[拉丁](./README.la.md)\|[日本人](./README.ja.md)\|[意大利語](./README.it.md)\|[德語](./README.de.md)\|[西班牙語](./README.es.md)\|[svenska](./README.sv.md)
+
 ![image](chrome/icons/icon.png)
 
 # 網絡優化器
 
 WebOptimizer 瀏覽器擴展。
 
-解鎖限制、保護您的隱私、刪除煩人的元素、自動點擊並替換不喜歡的詞。
+Unlock restrictions, protect your privacy, remove annoying elements, auto clicks, and replace disliked words.
 
 # 網上商店
 
@@ -56,7 +58,7 @@ WebOptimizer 瀏覽器擴展。
 
 #### 禁用第三方Cookie
 
-（第三方 cookie 由所有者（第三方）以外的其他人放置在網站上，並為第三方收集用戶數據。與標準 cookie 一樣，放置第三方 cookie 是為了讓網站記住一些關於用戶。但是，第三方 cookie 通常由網站可能訂閱的廣告網絡設置，以期提高銷售額或頁麵點擊率。）
+（第三方 cookie 由網站所有者（第三方）以外的其他人放置在網站上，並為第三方收集用戶數據。與標準 cookie 一樣，放置第三方 cookie 是為了讓網站記住一些關於用戶。但是，第三方 cookie 通常由網站可能訂閱的廣告網絡設置，以期提高銷售額或頁麵點擊率。）
 
 #### 禁用離開站點警報
 
