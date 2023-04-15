@@ -1,3 +1,5 @@
+[英語](./README.md)｜[簡体字中国語](./README.zh-CN.md)｜[繁体字中国語](./README.zh-TW.md)｜[韓国語](./README.ko.md)｜[いいえ](./README.hi.md)｜[アラビア語](./README.ar.md)｜[フランス語](./README.fr.md)｜[ロシア](./README.ru.md)｜[ラテン](./README.la.md)｜[日本語](./README.ja.md)｜[イタリアの](./README.it.md)｜[ドイツ人](./README.de.md)｜[スペイン語](./README.es.md)｜[スウェーデンの](./README.sv.md)
+
 ![image](chrome/icons/icon.png)
 
 # ウェブオプティマイザー
@@ -46,9 +48,9 @@ WebOptimizer ブラウザー拡張機能。
 
 (プロキシまたは VPN を使用している場合でも、WebRTC は実際の IP アドレスを漏らします。)
 
-#### 可視性の検出を防ぐ
+#### Prevent visibility detection
 
-(ウェブサイトはあなたの可視性を追跡できます。たとえば、動画を表示する前に広告を 60 秒間見させる場合があります。ブラウザを最小化するか、別のタブに切り替えると、ウェブサイトはそれを検出してカウントダウンを一時停止できます。(この機能の確率は機能しません。))
+(Web サイトは、あなたの可視性を追跡できます。たとえば、ビデオの表示を許可する前に、広告を 60 秒間見させる場合があります。ブラウザを最小化するか、別のタブに切り替えると、Web サイトはそれを検出してカウントダウンを一時停止できます。(この機能の確率は機能しません。))
 
 #### 追跡しないを有効にする
 
@@ -56,7 +58,7 @@ WebOptimizer ブラウザー拡張機能。
 
 #### サードパーティの Cookie を無効にする
 
-(サードパーティ Cookie は、所有者以外の誰か (サードパーティ) によって Web サイトに配置され、サードパーティのユーザーデータを収集します。標準の Cookie と同様に、サードパーティ Cookie は、サイトが何かを記憶できるように配置されます。ただし、サードパーティの Cookie は、多くの場合、販売やページ ヒットを促進することを期待して、サイトが購読している広告ネットワークによって設定されます。)
+(A third-party cookie is placed on a website by someone other than the owner (a third party) and collects user data for the third party. As with standard cookies, third-party cookies are placed so that a site can remember something about the user at a later time. Third-party cookies, however, are often set by advertising networks that a site may subscribe to in the hopes of driving up sales or page hits.)
 
 #### サイト離脱アラートを無効にする
 
