@@ -15,6 +15,7 @@ https://chrome.google.com/webstore/detail/web-optimizer/cnhiehgbljjkkiibdfochmcf
 ### <img src="webstore/images/edge.png" width="32" height="32" alt="WebOptimizer Edge" align="center" /> Edge:
 https://microsoftedge.microsoft.com/addons/detail/web-optimizer/nidnebakmpakkpeolmfdfhdilpogjoim
 
+
 # Features
 
 #### Auto click elements from web pages
