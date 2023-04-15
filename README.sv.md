@@ -1,3 +1,5 @@
+[engelsk](./README.md)\|[Förenklad kinesiska](./README.zh-CN.md)\|[traditionell kinesiska](./README.zh-TW.md)\|[koreanska](./README.ko.md)\|[Nej](./README.hi.md)\|[arabiska](./README.ar.md)\|[franska](./README.fr.md)\|[ryska](./README.ru.md)\|[latin](./README.la.md)\|[japanska](./README.ja.md)\|[italienska](./README.it.md)\|[tysk](./README.de.md)\|[spanska](./README.es.md)\|[svenska](./README.sv.md)
+
 ![image](chrome/icons/icon.png)
 
 # WebOptimizer
@@ -24,11 +26,11 @@ Lås upp begränsningar, skydda din integritet, ta bort irriterande element, aut
 
 #### Autoklicka på element från webbsidor
 
-(Såsom expander, stäng .....)
+(Som expander, stäng .....)
 
 #### Ersätt ogillade ord från webbsidor
 
-#### Lås upp textvalbegränsning
+#### Lås upp textvalsbegränsning
 
 #### Lås upp kopieringsbegränsning
 
