@@ -1,3 +1,5 @@
+[英语](./README.md)\|[简体中文](./README.zh-CN.md)\|[繁体中文](./README.zh-TW.md)\|[韩国人](./README.ko.md)\|[没有](./README.hi.md)\|[阿拉伯](./README.ar.md)\|[法语](./README.fr.md)\|[俄语](./README.ru.md)\|[拉丁](./README.la.md)\|[日本人](./README.ja.md)\|[意大利语](./README.it.md)\|[德语](./README.de.md)\|[西班牙语](./README.es.md)\|[瑞典](./README.sv.md)
+
 ![image](chrome/icons/icon.png)
 
 # 网络优化器
@@ -10,7 +12,7 @@ WebOptimizer 浏览器扩展。
 
 ### <img src="webstore/images/firefox.png" width="32" height="32" alt="WebOptimizer Firefox" align="center" />火狐：
 
-[HTTPS://add ONS.Mozilla.org/AD Don/Web optimizer/](https://addons.mozilla.org/addon/weboptimizer/)
+<https://addons.mozilla.org/addon/weboptimizer/>
 
 ### <img src="webstore/images/chrome.png" width="32" height="32" alt="WebOptimizer Chrome" align="center" />铬合金：
 
@@ -87,7 +89,7 @@ WebOptimizer 浏览器扩展。
 | 法语   | [@filecxx](https://github.com/filecxx) |
 | 俄语   | [@filecxx](https://github.com/filecxx) |
 
-语言文件：[HTTPS://GitHub.com/file C选项/Web optimizer/tree/master/chrome/\_locales](https://github.com/filecxx/WebOptimizer/tree/master/chrome/_locales)
+语言文件：<https://github.com/filecxx/WebOptimizer/tree/master/chrome/_locales>
 
 # 功能请求 && 贡献
 
