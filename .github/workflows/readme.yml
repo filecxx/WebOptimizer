@@ -41,7 +41,7 @@ jobs:
         with:
           LANG: ar
 
-      - name: Adding README - French
+      - name: Adding README - Français
         uses: dephraiim/translate-readme@main
         with:
           LANG: fr
@@ -56,7 +56,7 @@ jobs:
         with:
           LANG: la
 
-      - name: Adding README - Japanese
+      - name: Adding README - 日本語
         uses: dephraiim/translate-readme@main
         with:
           LANG: ja
