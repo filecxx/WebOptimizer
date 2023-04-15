@@ -1,3 +1,5 @@
+[Английский](./README.md)\|[Упрощенный китайский](./README.zh-CN.md)\|[традиционный китайский](./README.zh-TW.md)\|[Корейский](./README.ko.md)\|[Неа](./README.hi.md)\|[арабский](./README.ar.md)\|[Французский](./README.fr.md)\|[Русский](./README.ru.md)\|[латинский](./README.la.md)\|[Японский](./README.ja.md)\|[итальянский](./README.it.md)\|[Немецкий](./README.de.md)\|[испанский](./README.es.md)\|[Шведский](./README.sv.md)
+
 ![image](chrome/icons/icon.png)
 
 # Вебоптимизатор
