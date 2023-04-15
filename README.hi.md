@@ -1,3 +1,5 @@
+[अंग्रेज़ी](./README.md)\|[सरलीकृत चीनी](./README.zh-CN.md)\|[परंपरागत चीनी](./README.zh-TW.md)\|[कोरियाई](./README.ko.md)\|[नहीं](./README.hi.md)\|[अरबी](./README.ar.md)\|[फ्रेंच](./README.fr.md)\|[रूसी](./README.ru.md)\|[लैटिन](./README.la.md)\|[जापानी](./README.ja.md)\|[इतालवी](./README.it.md)\|[जर्मन](./README.de.md)\|[स्पैनिश](./README.es.md)\|[स्वीडिश](./README.sv.md)
+
 ![image](chrome/icons/icon.png)
 
 # WebOptimizer
@@ -34,7 +36,7 @@ WebOptimizer ब्राउज़र एक्सटेंशन।
 
 #### संदर्भ मेनू अनलॉक करें
 
-#### विरोधी विज्ञापन अवरोधक परत को हटा दें
+#### विरोधी विज्ञापन अवरोधक परत हटा दें
 
 ![Anti_Ad_Blocker](chrome/images/anti_adblock.png)
 
