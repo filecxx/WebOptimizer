@@ -1,3 +1,5 @@
+[Englisch](./README.md)\|[Vereinfachtes Chinesisch](./README.zh-CN.md)\|[traditionelles Chinesisch](./README.zh-TW.md)\|[Koreanisch](./README.ko.md)\|[Nö](./README.hi.md)\|[Arabisch](./README.ar.md)\|[Französisch](./README.fr.md)\|[Russisch](./README.ru.md)\|[Latein](./README.la.md)\|[japanisch](./README.ja.md)\|[Italienisch](./README.it.md)\|[Deutsch](./README.de.md)\|[Spanisch](./README.es.md)\|[Schwedisch](./README.sv.md)
+
 ![image](chrome/icons/icon.png)
 
 # WebOptimizer
