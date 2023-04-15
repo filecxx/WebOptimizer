@@ -1,3 +1,5 @@
+[Inglese](./README.md)\|[Cinese semplificato](./README.zh-CN.md)\|[cinese tradizionale](./README.zh-TW.md)\|[coreano](./README.ko.md)\|[No](./README.hi.md)\|[Arabo](./README.ar.md)\|[Francese](./README.fr.md)\|[russo](./README.ru.md)\|[latino](./README.la.md)\|[giapponese](./README.ja.md)\|[Italiano](./README.it.md)\|[Tedesco](./README.de.md)\|[spagnolo](./README.es.md)\|[svedese](./README.sv.md)
+
 ![image](chrome/icons/icon.png)
 
 # Ottimizzatore web
