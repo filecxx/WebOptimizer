@@ -1,10 +1,12 @@
+[Anglais](./README.md)\|[Chinois simplifié](./README.zh-CN.md)\|[chinois traditionnel](./README.zh-TW.md)\|[coréen](./README.ko.md)\|[Non](./README.hi.md)\|[arabe](./README.ar.md)\|[Français](./README.fr.md)\|[russe](./README.ru.md)\|[Latin](./README.la.md)\|[Japonais](./README.ja.md)\|[italien](./README.it.md)\|[Allemand](./README.de.md)\|[Espagnol](./README.es.md)\|[suédois](./README.sv.md)
+
 ![image](chrome/icons/icon.png)
 
 # Optimiseur Web
 
 Extension de navigateur WebOptimizer.
 
-Déverrouillez les restrictions, protégez votre vie privée, supprimez les éléments gênants, cliquez automatiquement et remplacez les mots que vous n'aimez pas.
+Déverrouillez les restrictions, protégez votre vie privée, supprimez les éléments gênants, cliquez automatiquement et remplacez les mots détestés.
 
 # Magasin en ligne
 
@@ -16,13 +18,13 @@ Déverrouillez les restrictions, protégez votre vie privée, supprimez les él�
 
 <https://chrome.google.com/webstore/detail/web-optimizer/cnhiehgbljjkkiibdfochmcffldemhph>
 
-### <img src="webstore/images/edge.png" width="32" height="32" alt="WebOptimizer Edge" align="center" /> Edge:
+### <img src="webstore/images/edge.png" width="32" height="32" alt="WebOptimizer Edge" align="center" />Bord:
 
 <https://microsoftedge.microsoft.com/addons/detail/web-optimizer/nidnebakmpakkpeolmfdfhdilpogjoim>
 
 # Caractéristiques
 
-#### Auto click elements from web pages
+#### Cliquez automatiquement sur les éléments des pages Web
 
 (Comme expander, fermer .....)
 
