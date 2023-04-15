@@ -1,3 +1,5 @@
+[영어](./README.md)\|[중국어 간체](./README.zh-CN.md)\|[중국어 번체](./README.zh-TW.md)\|[한국어](./README.ko.md)\|[아니요](./README.hi.md)\|[아라비아 말](./README.ar.md)\|[프랑스 국민](./README.fr.md)\|[러시아인](./README.ru.md)\|[라틴어](./README.la.md)\|[일본어](./README.ja.md)\|[이탈리아 사람](./README.it.md)\|[독일 사람](./README.de.md)\|[스페인의](./README.es.md)\|[스웨덴어](./README.sv.md)
+
 ![image](chrome/icons/icon.png)
 
 # 웹최적화기
@@ -50,7 +52,7 @@ WebOptimizer 브라우저 확장.
 
 (웹사이트는 가시성을 추적할 수 있습니다. 예를 들어 동영상을 보기 전에 60초 동안 광고를 보도록 할 수 있습니다. 브라우저를 최소화하거나 다른 탭으로 전환하면 웹사이트에서 이를 감지하고 카운트다운을 일시 중지할 수 있습니다. ( 이 기능 확률은 작동하지 않습니다.))
 
-#### 추적 안 함 활성화
+#### 추적 안함 활성화
 
 (웹사이트에 당신을 추적하지 말라고 말하세요. (여전히 가능합니다))
 
@@ -58,7 +60,7 @@ WebOptimizer 브라우저 확장.
 
 (제3자 쿠키는 소유자(제3자)가 아닌 다른 사람이 웹 사이트에 배치하고 제3자를 위해 사용자 데이터를 수집합니다. 그러나 제3자 쿠키는 판매 또는 페이지 방문 횟수를 늘리기 위해 사이트가 구독할 수 있는 광고 네트워크에서 설정하는 경우가 많습니다.)
 
-#### Disable leave site alert
+#### 사이트 이탈 경고 비활성화
 
 ![Block Notifycation](chrome/images/leave_this_site.png)
 
