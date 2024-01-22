@@ -4,13 +4,13 @@
 
 # ウェブオプティマイザー
 
-WebOptimizer ブラウザー拡張機能。
+WebOptimizer ブラウザ拡張機能。
 
-制限のロックを解除し、プライバシーを保護し、迷惑な要素を削除し、自動クリックし、嫌いな言葉を置き換えます。
+制限を解除し、プライバシーを保護し、迷惑な要素を削除し、自動クリックし、嫌いな単語を置き換えます。
 
 # ウェブストア
 
-### <img src="webstore/images/firefox.png" width="32" height="32" alt="WebOptimizer Firefox" align="center" />ファイアフォックス:
+### <img src="webstore/images/firefox.png" width="32" height="32" alt="WebOptimizer Firefox" align="center" />Firefox:
 
 [ｈっｔｐｓ：／／あっどんｓ。もじっぁ。おｒｇ／あっどん／うぇぼｐちみぜｒ／](https://addons.mozilla.org/addon/weboptimizer/)
 
@@ -26,39 +26,39 @@ WebOptimizer ブラウザー拡張機能。
 
 #### Web ページの要素を自動クリック
 
-（エキスパンダー、クローズなど……）
+(エキスパンダーなど、閉じる....)
 
-#### ウェブページの嫌いな言葉を置き換える
+#### Web ページの嫌いな単語を置き換える
 
-#### テキスト選択制限を解除
+#### テキスト選択制限を解除する
 
-#### コピー制限解除
+#### コピー制限を解除する
 
-#### コンテキスト メニューのロックを解除
+#### コンテキストメニューのロックを解除する
 
-#### アンチ広告ブロッカー層を削除
+#### アンチ広告ブロッカー層を削除する
 
 ![Anti_Ad_Blocker](chrome/images/anti_adblock.png)
 
-#### ブロック通知
+#### 通知をブロックする
 
 ![Block_Notifycation](chrome/images/notification.png)
 
-#### WebRTC IP リークを防ぐ
+#### WebRTC IP 漏洩を防ぐ
 
-(プロキシまたは VPN を使用している場合でも、WebRTC は実際の IP アドレスを漏らします。)
+(プロキシや VPN を使用している場合でも、WebRTC は実際の IP アドレスを漏洩します。)
 
-#### Prevent visibility detection
+#### 視認性の検出を防止する
 
-(Web サイトは、あなたの可視性を追跡できます。たとえば、ビデオの表示を許可する前に、広告を 60 秒間見させる場合があります。ブラウザを最小化するか、別のタブに切り替えると、Web サイトはそれを検出してカウントダウンを一時停止できます。(この機能の確率は機能しません。))
+(Web サイトはあなたの可視性を追跡できます。たとえば、ビデオの視聴を許可する前に 60 秒間広告を視聴させる場合があります。ブラウザを最小化するか別のタブに切り替えると、Web サイトがそれを検出し、カウントダウンを一時停止する可能性があります。(この特徴確率は機能しません。))
 
 #### 追跡しないを有効にする
 
-（あなたを追跡しないようにウェブサイトに伝えます。（それでも可能です））
+(ウェブサイトにあなたを追跡しないよう伝えてください。(それでも可能です))
 
 #### サードパーティの Cookie を無効にする
 
-(A third-party cookie is placed on a website by someone other than the owner (a third party) and collects user data for the third party. As with standard cookies, third-party cookies are placed so that a site can remember something about the user at a later time. Third-party cookies, however, are often set by advertising networks that a site may subscribe to in the hopes of driving up sales or page hits.)
+(サードパーティ Cookie は、所有者以外の誰か (サードパーティ) によって Web サイトに配置され、サードパーティのユーザー データを収集します。標準の Cookie と同様、サードパーティ Cookie は、サイトが何かを記憶できるように配置されます。ただし、サードパーティ Cookie は、サイトが売上やページ ヒット数の増加を期待して購読している広告ネットワークによって設定されることがよくあります)。
 
 #### サイト離脱アラートを無効にする
 
@@ -91,10 +91,10 @@ WebOptimizer ブラウザー拡張機能。
 
 言語ファイル:[ｈっｔｐｓ：／／ぎてゅｂ。こｍ／ふぃぇｃっｘ／うぇぼｐちみぜｒ／ｔれえ／まｓてｒ／ｃｈろめ／＿ぉかぇｓ](https://github.com/filecxx/WebOptimizer/tree/master/chrome/_locales)
 
-# 機能リクエスト && 貢献
+# 機能リクエストと貢献
 
-このプロジェクトに基づいて新しいブラウザー拡張機能を作成する必要はありません。
+このプロジェクトに基づいて新しいブラウザ拡張機能を作成する必要はありません。
 
-機能のリクエストがある場合は、問題を投稿してください。
+機能リクエストがある場合は、問題を投稿してください。
 
 さらに、コードをこのリポジトリにプッシュすると、メイン ブランチにマージされます。
