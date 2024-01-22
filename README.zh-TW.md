@@ -1,16 +1,16 @@
-[英語](./README.md)\|[簡體中文](./README.zh-CN.md)\|[繁體中文](./README.zh-TW.md)\|[韓國人](./README.ko.md)\|[沒有](./README.hi.md) \| [阿拉伯](./README.ar.md)\|[法語](./README.fr.md)\|[俄語](./README.ru.md)\|[拉丁](./README.la.md)\|[日本人](./README.ja.md)\|[意大利語](./README.it.md)\|[德語](./README.de.md)\|[西班牙語](./README.es.md)\|[svenska](./README.sv.md)
+[英語](./README.md)\|[簡體中文](./README.zh-CN.md)\|[繁體中文](./README.zh-TW.md)\|[韓國人](./README.ko.md)\|[沒有](./README.hi.md)\|[阿拉伯](./README.ar.md)\|[法語](./README.fr.md)\|[俄文](./README.ru.md)\|[拉丁](./README.la.md)\|[日本人](./README.ja.md)\|[義大利語](./README.it.md)\|[德文](./README.de.md)\|[西班牙語](./README.es.md)\|[瑞典](./README.sv.md)
 
 ![image](chrome/icons/icon.png)
 
-# 網絡優化器
+# 網頁優化器
 
-WebOptimizer 瀏覽器擴展。
+WebOptimizer 瀏覽器擴充功能。
 
-Unlock restrictions, protect your privacy, remove annoying elements, auto clicks, and replace disliked words.
+解鎖限制、保護您的隱私、刪除煩人的元素、自動點擊並替換不喜歡的單字。
 
 # 網上商店
 
-### <img src="webstore/images/firefox.png" width="32" height="32" alt="WebOptimizer Firefox" align="center" />火狐：
+### <img src="webstore/images/firefox.png" width="32" height="32" alt="WebOptimizer Firefox" align="center" />火狐瀏覽器：
 
 <https://addons.mozilla.org/addon/weboptimizer/>
 
@@ -24,19 +24,19 @@ Unlock restrictions, protect your privacy, remove annoying elements, auto clicks
 
 # 特徵
 
-#### 自動點擊網頁中的元素
+#### 自動點選網頁中的元素
 
-（比如擴展器，關閉.....）
+（如擴張器、關閉器…）
 
-#### 替換網頁中不喜歡的詞
+#### 替換網頁中不喜歡的單字
 
-#### 解鎖文本選擇限制
+#### 解鎖文字選擇限制
 
-#### 解鎖複製限制
+#### 解除複製限制
 
-#### 解鎖上下文菜單
+#### 解鎖上下文選單
 
-#### 移除反廣告攔截層
+#### 刪除反廣告攔截層
 
 ![Anti_Ad_Blocker](chrome/images/anti_adblock.png)
 
@@ -44,21 +44,21 @@ Unlock restrictions, protect your privacy, remove annoying elements, auto clicks
 
 ![Block_Notifycation](chrome/images/notification.png)
 
-#### 防止 WebRTC IP 洩露
+#### 防止WebRTC IP洩露
 
-（即使您使用代理或 VPN，WebRTC 也會洩露您的真實 IP 地址。）
+(WebRTC will leak your real IP address even if you are using a proxy or VPN.)
 
-#### 防止可見性檢測
+#### 防止能見度檢測
 
-（網站可以跟踪您的可見度。例如，它們可能會讓您觀看廣告 60 秒，然後才允許您觀看視頻。如果您最小化瀏覽器或切換到其他選項卡，網站可以檢測到並暫停倒計時。（這個特徵概率是行不通的。））
+（網站可以追蹤您的可見性。例如，他們可能會讓您觀看廣告 60 秒，然後才允許您觀看影片。如果您最小化瀏覽器或切換到其他選項卡，網站可以檢測到並暫停倒數計時。（這個特徵機率不起作用。））
 
-#### 啟用不跟踪
+#### 啟用不追蹤
 
-（告訴網站不要跟踪你。（它仍然可以））
+（告訴網站不要跟踪您。（它仍然可以））
 
-#### 禁用第三方Cookie
+#### 停用第三方Cookie
 
-（第三方 cookie 由網站所有者（第三方）以外的其他人放置在網站上，並為第三方收集用戶數據。與標準 cookie 一樣，放置第三方 cookie 是為了讓網站記住一些關於用戶。但是，第三方 cookie 通常由網站可能訂閱的廣告網絡設置，以期提高銷售額或頁麵點擊率。）
+（第三方 cookie 由所有者以外的其他人（第三方）放置在網站上，並為第三方收集使用者資料。與標準 cookie 一樣，放置第三方 cookie 的目的是讓網站能夠記住有關使用者稍後再訪問。然而，第三方cookie 通常是由網站訂閱的廣告網絡設置的，目的是提高銷量或頁面點擊率。）
 
 #### 禁用離開站點警報
 
@@ -84,17 +84,17 @@ Unlock restrictions, protect your privacy, remove annoying elements, auto clicks
 | 簡體中文 | [@filecxx](https://github.com/filecxx) |
 | 日本人  | [@filecxx](https://github.com/filecxx) |
 | 韓國人  | [@filecxx](https://github.com/filecxx) |
-| 德語   | [@filecxx](https://github.com/filecxx) |
+| 德文   | [@filecxx](https://github.com/filecxx) |
 | 西班牙語 | [@filecxx](https://github.com/filecxx) |
 | 法語   | [@filecxx](https://github.com/filecxx) |
-| 俄語   | [@filecxx](https://github.com/filecxx) |
+| 俄文   | [@filecxx](https://github.com/filecxx) |
 
-語言文件：<https://github.com/filecxx/WebOptimizer/tree/master/chrome/_locales>
+語言檔案：<https://github.com/filecxx/WebOptimizer/tree/master/chrome/_locales>
 
-# 功能請求 && 貢獻
+# 功能請求&&貢獻
 
-無需基於此項目創建新的瀏覽器擴展。
+無需基於此專案建立新的瀏覽器擴充功能。
 
 如果您有功能請求，只需發布問題即可。
 
-此外，您可以將您的代碼推送到此存儲庫中，它將合併到主分支中。
+此外，您可以將程式碼推送到此儲存庫中，它將合併到主分支中。
