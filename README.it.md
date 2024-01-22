@@ -2,11 +2,11 @@
 
 ![image](chrome/icons/icon.png)
 
-# Ottimizzatore web
+# WebOptimizer
 
 Estensione del browser WebOptimizer.
 
-Sblocca le restrizioni, proteggi la tua privacy, rimuovi elementi fastidiosi, clic automatici e sostituisci le parole non gradite.
+Sblocca le restrizioni, proteggi la tua privacy, rimuovi elementi fastidiosi, clic automatici e sostituisci le parole non apprezzate.
 
 # Negozio online
 
@@ -24,47 +24,47 @@ Sblocca le restrizioni, proteggi la tua privacy, rimuovi elementi fastidiosi, cl
 
 # Caratteristiche
 
-#### Clic automatico sugli elementi delle pagine web
+#### Clic automatico sugli elementi dalle pagine web
 
 (Come espansore, chiudi .....)
 
-#### Sostituisci le parole non gradite dalle pagine web
+#### Sostituisci le parole non apprezzate dalle pagine web
 
-#### Sblocca la restrizione di selezione del testo
+#### Sblocca la limitazione della selezione del testo
 
 #### Sblocca la limitazione della copia
 
 #### Sblocca il menu contestuale
 
-#### Rimuovi il livello anti-ad blocker
+#### Rimuovi il livello anti-blocco degli annunci
 
 ![Anti_Ad_Blocker](chrome/images/anti_adblock.png)
 
-#### Notifica di blocco
+#### Blocca notifica
 
 ![Block_Notifycation](chrome/images/notification.png)
 
-#### Previeni le perdite di IP WebRTC
+#### Previeni perdite di IP WebRTC
 
-(WebRTC perderà il tuo vero indirizzo IP anche se stai utilizzando un proxy o una VPN.)
+(WebRTC farà trapelare il tuo vero indirizzo IP anche se stai utilizzando un proxy o una VPN.)
 
 #### Impedisce il rilevamento della visibilità
 
-(I siti Web possono monitorare la tua visibilità. Ad esempio, potrebbero farti guardare annunci per 60 secondi prima di consentirti di visualizzare il video. Se riduci a icona il browser o passi a una scheda diversa, il sito Web può rilevarlo e mettere in pausa il conto alla rovescia. ( Questa funzione di probabilità non funzionerà.))
+(I siti web possono monitorare la tua visibilità. Ad esempio, potrebbero farti guardare annunci pubblicitari per 60 secondi prima di consentirti di visualizzare il video. Se riduci a icona il browser o passi a una scheda diversa, il sito web può rilevarlo e mettere in pausa il conto alla rovescia. ( Questa probabilità della caratteristica non funzionerà.))
 
-#### Abilita non tenere traccia
+#### Abilita non tracciare
 
-(Dì ai siti web di non rintracciarti. (è ancora possibile))
+(Di' ai siti web di non tracciarti. (può ancora))
 
 #### Disabilita i cookie di terze parti
 
-(Un cookie di terze parti viene inserito su un sito Web da una persona diversa dal proprietario (una terza parte) e raccoglie dati utente per conto della terza parte. Come con i cookie standard, i cookie di terze parti vengono inseriti in modo che un sito possa ricordare qualcosa su l'utente in un secondo momento.I cookie di terze parti, tuttavia, sono spesso impostati da reti pubblicitarie a cui un sito può iscriversi nella speranza di aumentare le vendite o le visite alle pagine.)
+(Un cookie di terze parti viene inserito su un sito web da qualcuno diverso dal proprietario (una terza parte) e raccoglie dati dell'utente per conto di terze parti. Come con i cookie standard, i cookie di terze parti vengono inseriti in modo che un sito possa ricordare qualcosa su l'utente in un secondo momento. I cookie di terze parti, tuttavia, sono spesso impostati da reti pubblicitarie a cui un sito può abbonarsi nella speranza di aumentare le vendite o le visite alla pagina.)
 
 #### Disabilita l'avviso di abbandono del sito
 
 ![Block Notifycation](chrome/images/leave_this_site.png)
 
-# Screenshot
+# Schermate
 
 ![WebOptimizer](screenshots/1.png)
 
@@ -91,7 +91,7 @@ Sblocca le restrizioni, proteggi la tua privacy, rimuovi elementi fastidiosi, cl
 
 File di lingua:<https://github.com/filecxx/WebOptimizer/tree/master/chrome/_locales>
 
-# Richiesta funzionalità && Contributo
+# Richiesta di funzionalità e contributo
 
 Non è necessario creare una nuova estensione del browser basata su questo progetto.
 
