@@ -121,13 +121,18 @@ chrome.storage.local.get({settings:config.settings,replace_words:config.replace_
         {
             var html                 = target.innerHTML;
             var body_overflow_hidden = get_element_style(document.body,"overflow") === "hidden";
-
+            //var fullscreen_locker    = get_element_style(target,"width");
+            //https://nsfwr34.com/?ref=porndude
+            //console.log(fullscreen_locker);
             var check_text = function(text){
                 if(!text){
                     return false;
                 }
                 text = target.innerHTML.toLowerCase();
 
+                if(text.indexOf("enforcement-message") !== -1){
+                    return true;
+                }
                 return text.indexOf("ad") !== -1 && text.indexOf("blocker") !== -1
             }
             if(body_overflow_hidden && (check_text(html) || check_text(target.className)))

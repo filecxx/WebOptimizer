@@ -147,6 +147,9 @@ function get_element_offset(element)
 */
 var get_element_style = function(element,styleName,fromElementStyle)
 {
+    if(!element){
+        return "";
+    }
     var elementStyle = element.style;
 
     if(fromElementStyle !== false && elementStyle && elementStyle[styleName]){
