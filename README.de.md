@@ -1,4 +1,4 @@
-[Englisch](./README.md)\|[Vereinfachtes Chinesisch](./README.zh-CN.md)\|[traditionelles Chinesisch](./README.zh-TW.md)\|[Koreanisch](./README.ko.md)\|[Nö](./README.hi.md)\|[Arabisch](./README.ar.md)\|[Französisch](./README.fr.md)\|[Russisch](./README.ru.md)\|[Latein](./README.la.md)\|[japanisch](./README.ja.md)\|[Italienisch](./README.it.md)\|[Deutsch](./README.de.md)\|[Spanisch](./README.es.md)\|[Schwedisch](./README.sv.md)
+[Englisch](./README.md)\|[Vereinfachtes Chinesisch](./README.zh-CN.md)\|[traditionelles Chinesisch](./README.zh-TW.md)\|[Koreanisch](./README.ko.md)\|[Nein](./README.hi.md)\|[Arabisch](./README.ar.md)\|[Französisch](./README.fr.md)\|[Russisch](./README.ru.md)\|[Latein](./README.la.md)\|[japanisch](./README.ja.md)\|[Italienisch](./README.it.md)\|[Deutsch](./README.de.md)\|[Spanisch](./README.es.md)\|[Schwedisch](./README.sv.md)
 
 ![image](chrome/icons/icon.png)
 
@@ -6,7 +6,7 @@
 
 WebOptimizer-Browsererweiterung.
 
-Entsperren Sie Einschränkungen, schützen Sie Ihre Privatsphäre, entfernen Sie störende Elemente, automatische Klicks und ersetzen Sie unerwünschte Wörter.
+Schalten Sie Einschränkungen frei, schützen Sie Ihre Privatsphäre, entfernen Sie störende Elemente, automatische Klicks und ersetzen Sie unerwünschte Wörter.
 
 # Webshop
 
@@ -24,15 +24,15 @@ Entsperren Sie Einschränkungen, schützen Sie Ihre Privatsphäre, entfernen Sie
 
 # Merkmale
 
-#### Klicken Sie automatisch auf Elemente von Webseiten
+#### Automatisches Klicken auf Elemente von Webseiten
 
-(wie Expander, schließen .....)
+(Wie Expander, schließen .....)
 
 #### Ersetzen Sie unerwünschte Wörter von Webseiten
 
 #### Entsperren Sie die Textauswahlbeschränkung
 
-#### Kopierbeschränkung entsperren
+#### Kopierbeschränkung aufheben
 
 #### Kontextmenü entsperren
 
@@ -46,19 +46,19 @@ Entsperren Sie Einschränkungen, schützen Sie Ihre Privatsphäre, entfernen Sie
 
 #### Verhindern Sie WebRTC-IP-Lecks
 
-(WebRTC wird Ihre echte IP-Adresse preisgeben, selbst wenn Sie einen Proxy oder VPN verwenden.)
+(WebRTC gibt Ihre echte IP-Adresse preis, selbst wenn Sie einen Proxy oder VPN verwenden.)
 
 #### Sichtbarkeitserkennung verhindern
 
-(Websites können Ihre Sichtbarkeit verfolgen. Sie können Sie beispielsweise dazu bringen, 60 Sekunden lang Werbung anzusehen, bevor Sie das Video ansehen können. Wenn Sie Ihren Browser minimieren oder zu einem anderen Tab wechseln, kann die Website dies erkennen und den Countdown anhalten. ( Diese Feature-Wahrscheinlichkeit wird nicht funktionieren.))
+(Websites können Ihre Sichtbarkeit verfolgen. Sie können beispielsweise dazu führen, dass Sie 60 Sekunden lang Werbung ansehen, bevor Sie das Video ansehen können. Wenn Sie Ihren Browser minimieren oder zu einem anderen Tab wechseln, kann die Website dies erkennen und den Countdown anhalten. ( Diese Feature-Wahrscheinlichkeit wird nicht funktionieren.))
 
-#### Nicht verfolgen aktivieren
+#### Aktivieren Sie „Nicht verfolgen“.
 
-(Sagen Sie Websites, Sie nicht zu verfolgen. (Das kann es immer noch))
+(Sagen Sie Websites, sie sollen Sie nicht verfolgen. (Das ist immer noch möglich))
 
 #### Cookies von Drittanbietern deaktivieren
 
-(Ein Drittanbieter-Cookie wird von jemand anderem als dem Eigentümer (einem Drittanbieter) auf einer Website platziert und sammelt Benutzerdaten für den Drittanbieter. Wie bei Standard-Cookies werden Drittanbieter-Cookies platziert, damit sich eine Website an etwas erinnern kann den Benutzer zu einem späteren Zeitpunkt. Cookies von Drittanbietern werden jedoch häufig von Werbenetzwerken gesetzt, die eine Website abonnieren kann, in der Hoffnung, den Umsatz oder die Seitenaufrufe zu steigern.)
+(Ein Drittanbieter-Cookie wird von jemand anderem als dem Eigentümer (einem Dritten) auf einer Website platziert und sammelt Benutzerdaten für den Drittanbieter. Wie bei Standard-Cookies werden Drittanbieter-Cookies platziert, damit sich eine Website etwas merken kann Cookies von Drittanbietern werden jedoch häufig von Werbenetzwerken gesetzt, die eine Website möglicherweise abonniert, in der Hoffnung, dadurch den Umsatz oder die Seitenaufrufe zu steigern.)
 
 #### Deaktivieren Sie die Warnung zum Verlassen der Website
 
@@ -93,8 +93,8 @@ Sprachdateien:<https://github.com/filecxx/WebOptimizer/tree/master/chrome/_local
 
 # Funktionsanfrage && Beitrag
 
-Es ist nicht erforderlich, basierend auf diesem Projekt eine neue Browsererweiterung zu erstellen.
+Es ist nicht erforderlich, auf Grundlage dieses Projekts eine neue Browsererweiterung zu erstellen.
 
 Wenn Sie eine Funktionsanfrage haben, posten Sie einfach ein Problem.
 
-Darüber hinaus können Sie Ihren Code in dieses Repository verschieben, und er wird in den Hauptzweig zusammengeführt.
+Darüber hinaus können Sie Ihren Code in dieses Repository übertragen und er wird im Hauptzweig zusammengeführt.
