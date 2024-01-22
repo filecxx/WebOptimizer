@@ -32,9 +32,9 @@ Recludas restrictiones, secretum tuum protege, elementa molestissima remove, str
 
 #### Basem text eligere restrictione
 
-#### Basem exemplum restrictionis
+#### Unlock exemplum restrictione
 
-#### Recludam contextu menu
+#### Unlock context menu
 
 #### Remove anti ad obstructore iacuit
 
@@ -46,7 +46,7 @@ Recludas restrictiones, secretum tuum protege, elementa molestissima remove, str
 
 #### Ne WebRTC IP libero
 
-(WebRTC inscriptionem tuam veram IP effluo etiamsi procuratorem vel VPN uteris).
+(Webrtc et Leak tuus realis IP oratio etiamsi vos es usura procuratorem vel VPN.)
 
 #### Ne visio deprehendatur
 
@@ -93,7 +93,7 @@ Tabulae linguae:<https://github.com/filecxx/WebOptimizer/tree/master/chrome/_loc
 
 # Feature petitionem && Conlationem
 
-Non opus est ut novum navigatrum extensio in hoc incepto creare possit.
+Non opus est ut novum navigatrum extensionem in hoc incepto creare nitatur.
 
 Si pluma petitionem habes, simpliciter quaestionem pone.
 
