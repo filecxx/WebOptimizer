@@ -1,12 +1,12 @@
-[Anglais](./README.md)\|[Chinois simplifié](./README.zh-CN.md)\|[chinois traditionnel](./README.zh-TW.md)\|[coréen](./README.ko.md)\|[Non](./README.hi.md)\|[arabe](./README.ar.md)\|[Français](./README.fr.md)\|[russe](./README.ru.md)\|[Latin](./README.la.md)\|[Japonais](./README.ja.md)\|[italien](./README.it.md)\|[Allemand](./README.de.md)\|[Espagnol](./README.es.md)\|[suédois](./README.sv.md)
+[Anglais](./README.md)\|[Chinois simplifié](./README.zh-CN.md)\|[chinois traditionnel](./README.zh-TW.md)\|[coréen](./README.ko.md)\|[Non](./README.hi.md)\|[arabe](./README.ar.md)\|[Français](./README.fr.md)\|[russe](./README.ru.md)\|[Latin](./README.la.md)\|[Japonais](./README.ja.md)\|[italien](./README.it.md)\|[Allemand](./README.de.md)\|[Español](./README.es.md)\|[suédois](./README.sv.md)
 
 ![image](chrome/icons/icon.png)
 
-# Optimiseur Web
+# WebOptimiseur
 
 Extension de navigateur WebOptimizer.
 
-Déverrouillez les restrictions, protégez votre vie privée, supprimez les éléments gênants, cliquez automatiquement et remplacez les mots détestés.
+Débloquez les restrictions, protégez votre vie privée, supprimez les éléments gênants, les clics automatiques et remplacez les mots que vous n'aimez pas.
 
 # Magasin en ligne
 
@@ -24,9 +24,9 @@ Déverrouillez les restrictions, protégez votre vie privée, supprimez les él�
 
 # Caractéristiques
 
-#### Cliquez automatiquement sur les éléments des pages Web
+#### Clic automatique sur les éléments des pages Web
 
-(Comme expander, fermer .....)
+(Comme un extenseur, fermez .....)
 
 #### Remplacer les mots détestés des pages Web
 
@@ -36,11 +36,11 @@ Déverrouillez les restrictions, protégez votre vie privée, supprimez les él�
 
 #### Déverrouiller le menu contextuel
 
-#### Supprimer la couche anti-blocage des publicités
+#### Supprimer la couche anti-bloqueur de publicité
 
 ![Anti_Ad_Blocker](chrome/images/anti_adblock.png)
 
-#### Notification de blocage
+#### Bloquer les notifications
 
 ![Block_Notifycation](chrome/images/notification.png)
 
@@ -50,17 +50,17 @@ Déverrouillez les restrictions, protégez votre vie privée, supprimez les él�
 
 #### Empêcher la détection de visibilité
 
-(Les sites Web peuvent suivre votre visibilité. Par exemple, ils peuvent vous faire regarder des publicités pendant 60 secondes avant de vous permettre de visionner la vidéo. Si vous réduisez votre navigateur ou passez à un autre onglet, le site Web peut le détecter et mettre le compte à rebours en pause. ( Cette probabilité de fonctionnalité ne fonctionnera pas.))
+(Les sites Web peuvent suivre votre visibilité. Par exemple, ils peuvent vous faire regarder des publicités pendant 60 secondes avant de vous autoriser à visionner la vidéo. Si vous réduisez votre navigateur ou passez à un autre onglet, le site Web peut le détecter et suspendre le compte à rebours. ( Cette probabilité de fonctionnalité ne fonctionnera pas.))
 
-#### Activer ne pas suivre
+#### Activer Ne pas suivre
 
-(Dites aux sites Web de ne pas vous suivre. (c'est toujours possible))
+(Dites aux sites Web de ne pas vous suivre. (C'est toujours possible))
 
 #### Désactiver les cookies tiers
 
-(Un cookie tiers est placé sur un site Web par quelqu'un d'autre que le propriétaire (un tiers) et collecte des données d'utilisateur pour le tiers. Comme pour les cookies standard, les cookies tiers sont placés afin qu'un site puisse se souvenir de quelque chose à propos de Les cookies tiers, cependant, sont souvent définis par des réseaux publicitaires auxquels un site peut s'abonner dans l'espoir d'augmenter les ventes ou les consultations de pages.)
+(Un cookie tiers est placé sur un site Web par une personne autre que le propriétaire (un tiers) et collecte des données utilisateur pour le tiers. Comme pour les cookies standard, les cookies tiers sont placés afin qu'un site puisse se souvenir de quelque chose sur l'utilisateur ultérieurement. Les cookies tiers, cependant, sont souvent définis par des réseaux publicitaires auxquels un site peut s'abonner dans l'espoir d'augmenter les ventes ou les visites de pages.)
 
-#### Désactiver l'alerte de site de congé
+#### Désactiver l'alerte de sortie du site
 
 ![Block Notifycation](chrome/images/leave_this_site.png)
 
@@ -95,6 +95,6 @@ Fichiers de langue :<https://github.com/filecxx/WebOptimizer/tree/master/chrome
 
 Il n'est pas nécessaire de créer une nouvelle extension de navigateur basée sur ce projet.
 
-Si vous avez une demande de fonctionnalité, postez simplement un problème.
+Si vous avez une demande de fonctionnalité, publiez simplement un problème.
 
-De plus, vous pouvez pousser votre code dans ce référentiel, et il sera fusionné dans la branche principale.
+De plus, vous pouvez transférer votre code dans ce référentiel et il sera fusionné dans la branche principale.
