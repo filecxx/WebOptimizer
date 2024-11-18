@@ -1,13 +1,6 @@
-[English](./README.md) | [简体中文](./README.zh-CN.md) | [繁體中文](./README.zh-TW.md) | [한국어](./README.ko.md) | [Hindi](./README.hi.md) | [Arabic](./README.ar.md) | [Français](./README.fr.md) | [Русский](./README.ru.md) | [Latin](./README.la.md) | [日本語](./README.ja.md)| [Italian](./README.it.md) | [Deutsch](./README.de.md) | [Español](./README.es.md) | [svenska](./README.sv.md)
-
-
 ![image](chrome/icons/icon.png)
 
-# WebOptimizer
-
-WebOptimizer browser extension.
-
-Unlock restrictions, protect your privacy, remove annoying elements, auto clicks, and replace disliked words.
+# This project is no longer being maintained.
 
 # Web Store
 ### <img src="webstore/images/firefox.png" width="32" height="32" alt="WebOptimizer Firefox" align="center" /> Firefox:
@@ -70,26 +63,5 @@ https://microsoftedge.microsoft.com/addons/detail/web-optimizer/nidnebakmpakkpeo
 
 ![WebOptimizer](screenshots/replace_words_google.png)
 
-
-# Languages
-| Language            |@|
-|:--------------------|:-------------|
-|English | [@filecxx](https://github.com/filecxx) 
-|简体中文 | [@filecxx](https://github.com/filecxx) 
-|日本語 | [@filecxx](https://github.com/filecxx) 
-|한국인 | [@filecxx](https://github.com/filecxx) 
-|Deutsch | [@filecxx](https://github.com/filecxx) 
-|español | [@filecxx](https://github.com/filecxx) 
-|Français | [@filecxx](https://github.com/filecxx) 
-|Русский | [@filecxx](https://github.com/filecxx) 
-
-Language files: https://github.com/filecxx/WebOptimizer/tree/master/chrome/_locales
-
-# Feature request && Contribution
-There's no need to create a new browser extension based on this project.
-
-If you have a feature request, simply post an issue.
-
-Additionally, you can push your code into this repository, and it will be merged into the main branch.
 
 
